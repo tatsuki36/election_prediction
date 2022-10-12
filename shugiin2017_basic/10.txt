@@ -1,0 +1,1280 @@
+['xml version="1.0" encoding="UTF-8"?', '\n', 'html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"', '\n', <html dir="ltr" lang="ja" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:og="http://ogp.me/ns#">
+<head>
+<!-- DTM上 -->
+<script src="//assets.adobedtm.com/d7e679c95b1f3fceafd1fcdf47a9b3bc7a11d039/satelliteLib-b5f070ddaa8837c4b9c5d3e0509562a889b01b07.js"></script>
+<!-- /DTM上 -->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="ja" http-equiv="content-language"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="text/css" http-equiv="content-style-type"/>
+<meta content="text/javascript" http-equiv="content-script-type"/>
+<meta content="Copyright The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission." name="copyright"/>
+<title>群馬-開票速報-2017衆議院選挙（衆院選）：朝日新聞デジタル</title>
+<meta content="朝日新聞デジタルの2017衆議院選挙（衆院選）、群馬選挙区の開票速報ページです。" name="description"/>
+<meta content="群馬,衆議院選挙,選挙,衆院選,朝日新聞デジタル,朝日新聞,ニュース,衆議院" name="keywords"/>
+<link href="http://www.asahi.com/senkyo/senkyo2017/kaihyo/A10.html" rel="canonical"/>
+<link href="http://www.asahi.com/sp/senkyo/senkyo2017/kaihyo/A10.html" media="only screen and (max-width: 640px)" rel="alternate"/>
+<meta content="群馬-開票速報-2017衆議院選挙（衆院選）：朝日新聞デジタル" property="og:title"/>
+<meta content="http://www.asahi.com/senkyo/senkyo2017/kaihyo/A10.html" property="og:url"/>
+<meta content="朝日新聞デジタルの2017衆議院選挙（衆院選）、群馬選挙区の開票速報ページです。" property="og:description">
+<meta content="137119773101625" property="fb:app_id">
+<meta content="ja_JP" property="og:locale"/>
+<meta content="https://www.asahicom.jp/senkyo/senkyo2017/images/og.png" property="og:image"/>
+<meta content="朝日新聞デジタル" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.facebook.com/asahicom" property="article:publisher"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/logo_icon.png" rel="apple-touch-icon"/>
+<meta content="/logo_icon.png" name="msapplication-TileImage"/>
+<meta content="#B90000" name="msapplication-TileColor"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@asahi" name="twitter:site"/>
+<meta content="群馬-開票速報-2017衆議院選挙（衆院選）：朝日新聞デジタル" name="twitter:title"/>
+<meta content="朝日新聞デジタルの2017衆議院選挙（衆院選）、群馬選挙区の開票速報ページです。" name="twitter:description"/>
+<meta content="http://www.asahi.com/senkyo/senkyo2017/kaihyo/A10.html" name="twitter:url"/>
+<link href="//www.asahicom.jp/css/asahi-common2014.utf8.css" media="screen,print" rel="stylesheet" type="text/css"/>
+<script charset="UTF-8" src="//www.asahicom.jp/js/asahi-common2014.utf8.js" type="text/javascript"></script>
+<link href="http://www3.asahi.com/rss/index.rdf" rel="alternate" title="朝日新聞デジタル速報全ジャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/national.rdf" rel="alternate" title="朝日新聞デジタル速報社会ジャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/politics.rdf" rel="alternate" title="朝日新聞デジタル速報政治ジャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/sports.rdf" rel="alternate" title="朝日新聞デジタル速報スポーツジャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/business.rdf" rel="alternate" title="朝日新聞デジタル速報経済・マネージャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/international.rdf" rel="alternate" title="朝日新聞デジタル速報国際ジャンル" type="application/rss+xml"/>
+<link href="http://www3.asahi.com/rss/culture.rdf" rel="alternate" title="朝日新聞デジタル速報カルチャージャンル" type="application/rss+xml"/>
+<!--#include virtual="/senkyo/senkyo2017/esi/refresh.htm"-->
+<!-- start of "/senkyo/senkyo2017/esi/meta_cssjs.htm"  -->
+<link href="//www.asahicom.jp/senkyo/senkyo2017/css/senkyo.css" media="screen,print" rel="stylesheet" type="text/css"/>
+<!--<script type="text/javascript" charset="UTF-8" src="//www.asahicom.jp/senkyo/senkyo2017/js/senkyo.js"></script>-->
+<!-- end of "/senkyo/senkyo2017/esi/meta_cssjs.htm"  -->
+<!--#include virtual="/senkyo/senkyo2017/esi/meta_cssjs.htm"-->
+<link href="/senkyo/senkyo2017/css/senkyo_senkyoku.css" media="screen,print" rel="stylesheet" type="text/css"/>
+</meta></meta></head>
+<!-- ヘッダ ＥＮＤ -->
+<body class="kaihyo senkyoku shosenkyoku Kaihyo A10">
+<!-- googleoff:index -->
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-N328R8" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N328R8');</script>
+<!-- End Google Tag Manager -->
+<!-- HideInfo BGN -->
+<p class="hide"><a href="#MainInner">メインメニューをとばして、このページの本文エリアへ</a></p>
+<noscript><p>お使いのブラウザはJavaScriptに対応していないか、または無効になっています。詳しくは<a href="http://www.asahi.com/policy/index.html">サイトポリシーのページ</a>をご覧ください。</p></noscript>
+<p class="hide"><a href="http://www.asahi.com/shimen/20211013/index_tokyo_list.html#kijilist">10月13日朝日新聞デジタル朝刊記事一覧へ（朝5時更新）</a></p>
+<p class="hide"><a href="http://www.asahi.com/news/">新着記事一覧へ</a></p>
+<!-- HideInfo END -->
+<!-- Header BGN --><div id="Header">
+<!-- HeaderInner BGN --><div id="HeaderInner">
+<p class="SiteLogo"><a href="http://www.asahi.com?iref=com_gnavi_top"><img alt="朝日新聞デジタル" height="28" src="//www.asahicom.jp/senkyo/senkyo2017/images/asahi_logo@2x.png" width="89"/></a></p>
+<!-- Logo BGN -->
+<div id="Logo">
+<p class="AnnLogo"><span id="XLogo"><img alt="" height="28" src="//www.asahicom.jp/senkyo/senkyo2017/images/s17_logo_x.png" width="27"/></span><a href="http://www.tv-asahi.co.jp/senkyo/" target="_blank"><img alt="ANN" height="28" src="//www.asahicom.jp/senkyo/senkyo2017/images/s17_logo_ann.png" width="68"/></a></p>
+<p id="SubLogo"><a href="/senkyo/senkyo2017/"><img alt="2017衆院選" height="48" src="//www.asahicom.jp/senkyo/senkyo2017/images/logo_senkyo2017_pc.png"/></a></p>
+</div>
+<!-- Logo END -->
+<!-- UserNav BGN -->
+<!-- UserNav BGN --><div class="UserNav">
+<ul>
+<li class="Info"><a class="Logout" href="https://digital.asahi.com/info/?iref=com_usnavi">総合ガイド</a>
+<a class="Lite" href="https://digital.asahi.com/info/?iref=com_usnavi">総合ガイド</a>
+<a class="Coupon" href="https://digital.asahi.com/info/?iref=com_usnavi">総合ガイド</a>
+<a class="CouponNG Member" href="https://digital.asahi.com/info/?iref=com_usnavi">総合ガイド</a></li>
+<li class="Join"><a class="Logout" href="https://digital.asahi.com/info/price/?iref=com_usnavi">登録申し込み</a>
+<a class="Lite" href="https://digital.asahi.com/my_menu/?iref=com_usnavi">お客様サポート</a>
+<a class="Coupon" href="https://digital.asahi.com/my_menu/?iref=com_usnavi">お客様サポート</a>
+<a class="CouponNG Member" href="https://digital.asahi.com/my_menu/?iref=com_usnavi">お客様サポート</a></li>
+<li class="Status"><a class="Logout" href="https://digital.asahi.com/rd/lgck2.html?iref=com_usnavi">ログイン</a><span class="Lite">ログイン中</span><span class="Coupon">ログイン中</span><span class="CouponNG Member">ログイン中</span></li>
+</ul>
+</div><!-- UserNav END -->
+<!--#include virtual="/news/esi/header13_usernavi_utf8.htm"-->
+<!-- UserNav END -->
+</div><!-- HeaderInner END -->
+<!-- SnkNavi BGN --><div id="SnkNavi">
+<!-- SnkNaviInner BGN --><div id="SnkNaviInner">
+<!-- SnkNaviInner BGN --><div class="MainNav">
+<ul class="Nav">
+<li class="Fst" id="SenkyoTop"><a href="/senkyo/senkyo2017/">衆院選トップ</a></li>
+<li id="News"><a href="/senkyo/senkyo2017/news/">ニュース</a></li>
+<li id="Chumoku"><a href="/senkyo/senkyo2017/chumoku/">注目の当落</a></li>
+<li id="Special"><a href="/senkyo/senkyo2017/special/">企画連載</a></li>
+<li id="AsahiTodaiChousa"><a href="/senkyo/senkyo2017/asahitodai/">朝日・東大調査</a></li>
+<li id="Koho"><a href="/senkyo/senkyo2017/koho/">候補者</a></li>
+<li id="Kaihyo"><a href="/senkyo/senkyo2017/kaihyo/">開票速報</a></li>
+</ul>
+</div><!-- MainNav END -->
+</div><!-- SnkNaviInner END -->
+</div><!-- SnkNavi END -->
+</div><!-- Header END -->
+<!--#include virtual="/senkyo/senkyo2017/esi/header.htm"-->
+<!--telop|BGN--><!-- テロップはありません $!{telop_text} --><!--telop|END-->
+<!--#include virtual="/news/esi/telop13_utf8.txt"-->
+<!-- 地震速報・津波速報は表示状態です -->
+<script>
+var ASAHI_TSUNAMI = new XMLHttpRequest();
+ASAHI_TSUNAMI.open('GET', '/wave/tsunami/alert/emergency_box.html', true);
+ASAHI_TSUNAMI.onload = function() {
+  if ((ASAHI_TSUNAMI.status >= 200 && ASAHI_TSUNAMI.status < 400) && ASAHI_TSUNAMI.responseText.match(/tsunami\.html/)) {
+    EventTsunami();
+  }
+}
+function EventTsunami(){
+  var txt_tsunami = document.getElementById("tsunami_read_text");
+  txt_tsunami.innerHTML = ASAHI_TSUNAMI.responseText;
+  Function(document.getElementById("TsunamiScript").innerHTML)();
+  var ele = document.querySelector("#InsideTsunami .SlideBtn");
+  var btn = ele.querySelector("span b");
+  var sld = document.querySelector("#InsideTsunami .TsunamiSlide");
+  ele.addEventListener("click",function(){
+  if(sld.style.display=="none"){
+    btn.classList.remove("Click");
+    btn.innerHTML = "閉じる";
+    sld.style.display = "block";
+    }else{
+    btn.classList.add("Click");
+    btn.innerHTML = "詳しく";
+    sld.style.display = "none";
+    }
+  });
+}
+ASAHI_TSUNAMI.send();
+</script>
+<div id="tsunami_read_text"></div>
+<!--#include virtual="/news/esi/tsunami_emergency_box_pc_utf8.htm" -->
+<script>
+var ASAHI_QUAKE = new XMLHttpRequest();
+ASAHI_QUAKE.open('GET', '/earthquake/news/esi/max_emergency_box1_utf8.htm', true);
+ASAHI_QUAKE.onload = function() {
+ if ((ASAHI_QUAKE.status >= 200 && ASAHI_QUAKE.status < 400)  && ASAHI_QUAKE.responseText.match(/max_earthquakealert\.html/)) {
+  var txt_quake = document.getElementById("earthquake_read_text");
+  txt_quake.innerHTML = ASAHI_QUAKE.responseText;
+ }
+}
+ASAHI_QUAKE.send();
+</script>
+<div id="earthquake_read_text"></div>
+<!--#include virtual="/news/esi/max_emergency_box1_utf8.htm" -->
+<!--#include virtual="/news/esi/max_emergency_box_in_box_utf8.htm"-->
+<div id="Contents">
+<div id="ContentsInner">
+<div id="Main">
+<!--utility BGN-->
+<script src="//www.asahicom.jp/js/socialbutton.utf8.js" type="text/javascript"></script>
+<!--20170308 SNS-Utility BGN-->
+<div class="SnsUtilityArea Genre">
+<div class="SnsBtn">
+<ul>
+<li class="Facebook">
+<span class="SnsName"><a href="javascript:void(0);">シェア</a></span>
+</li>
+<li class="Twitter">
+<span class="SnsName"><a href="javascript:void(0);" id="twshare" target="_blank">ツイート</a></span>
+<span class="count"><a href="javascript:void(0);" id="twlink" target="_blank">list</a></span></li>
+<li class="Hatena">
+<span class="SnsName"><a href="javascript:void(0);" target="_blank">ブックマーク</a></span>
+<span class="count">0</span></li>
+</ul>
+</div><!-- SnsBtn -->
+</div><!--SnsUtilityArea-->
+<!--20170308 SNS-Utility END-->
+<!--#include virtual="/news/esi/utility_right_simple_origin_2015_utf8.htm"-->
+<!--utility END-->
+<!-- BreadCrumb BGN --><div class="BreadCrumb">
+<p class="Gnavi"><a href="/">朝日新聞デジタル</a></p>
+<span>&gt;</span>
+<p class="Genre"><a href="/senkyo/senkyo2017/">2017衆院選</a></p>
+<span>&gt;</span>
+<p class="Category"><a href="/senkyo/senkyo2017/kaihyo/">開票速報</a></p>
+<span>&gt;</span>
+<h1>小選挙区開票速報：群馬</h1>
+</div><!-- BreadCrumb END -->
+<!-- MainInner BGN --><div id="MainInner">
+<!--googleon:index-->
+<div class="PageTitle SnkTitle">
+<div class="Title">
+<p>小選挙区開票速報：群馬（定数5）</p></div><!-- Title -->
+</div>
+<!--| kaihyo BGN |-->
+<div class="Section">
+<ul class="snkSubnavi">
+<li class="Fst"><a class="areainfo" href="#Area001" name="">1区</a></li>
+<li><a class="areainfo" href="#Area002" name="">2区</a></li>
+<li><a class="areainfo" href="#Area003" name="">3区</a></li>
+<li><a class="areainfo" href="#Area004" name="">4区</a></li>
+<li><a class="areainfo" href="#Area005" name="">5区</a></li>
+</ul>
+<ul class="snkSubLnk">
+<li class="RightSide"><a href="O03.html">比例区 開票速報：北関東ブロック</a></li>
+<li class="RightSide"><a href="../koho/A10.html">小選挙区 候補者：群馬</a></li>
+</ul>
+</div>
+<!--| kaihyo data BGN |-->
+<!-- Section BGN --><div class="Section" id="KaihyoArea">
+<!--| 群馬1区 BGN |-->
+<div class="areabox" id="Area001">
+<div class="snkH2Box">
+<h2>群馬1区<a class="areainfo2" href="#AreaDetailList">群馬の小選挙区一覧</a></h2>
+<h3>前橋市、沼田市、桐生市1区域、みどり市1区域、渋川市1区域、片品村、川場村、昭和村、みなかみ町</h3>
+<ul class="supplement">
+<li class="OptItm"><li class="flag1">確定得票</li></li>
+</ul>
+</div>
+<!--| 候補者table BGN |-->
+<table class="snkTbl01">
+<thead>
+<tr>
+<th class="rose"></th>
+<th class="photo"></th>
+<th class="namae"><div>氏名</div></th>
+<th class="num" colspan="2"><div>得票数<span>・</span>得票率</div></th>
+<th class="career"><div>略歴</div></th>
+<th class="party"><div>政党</div></th>
+<th class="status"><div>新旧</div></th>
+<th class="tosenkaisu"><div>当選<br/>回数</div></th>
+<th class="w"><div>重複</div></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="rose"><div><span class="shoto tosen" title="小選挙区で当選"></span></div></td>
+<td class="photo"><img alt="写真：おみあさこ" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171007SNSA0005S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">尾身</span><span class="mei">朝子</span><span class="age">(56)</span></div></td>
+<td class="num"><div>92,641<span>48.75<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp01.gif" width="48.75%"/></div></td>
+<td class="career"><div>〈元〉ＮＴＴ東社員</div></td>
+<td class="party"><div>自民</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>2<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000001">比例</a></div></td>
+</tr>
+<tr class="even">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：みやざきたけし" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170928SNSA0161S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">宮崎</span><span class="mei">岳志</span><span class="age">(47)</span></div></td>
+<td class="num"><div>71,569<span>37.66<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="37.66%"/></div></td>
+<td class="career"><div>〈元〉上毛新聞記者<span>／民</span></div></td>
+<td class="party"><div>希望</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>2<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJ00002701">比例</a></div></td>
+</tr>
+<tr class="odd">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：たなはしせつこ" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170928SNSA0029S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">店橋</span><span class="mei">世津子</span><span class="age">(56)</span></div></td>
+<td class="num"><div>25,818<span>13.59<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="13.59%"/></div></td>
+<td class="career"><div>〈元〉前橋市議</div></td>
+<td class="party"><div>共産</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000004">比例</a></div></td>
+</tr>
+</tbody>
+</table>
+<!--| 候補者table END |-->
+<!--| go top BGN |-->
+<div class="SnkPagetop"><span><a href="#Header">ページトップへ戻る</a></span></div>
+<!--| go top END |-->
+</div>
+<!--| 群馬1区  END |-->
+<!--| 群馬2区 BGN |-->
+<div class="areabox" id="Area002">
+<div class="snkH2Box">
+<h2>群馬2区<a class="areainfo2" href="#AreaDetailList">群馬の小選挙区一覧</a></h2>
+<h3>桐生市2区域、伊勢崎市、みどり市2区域、太田市2区域、玉村町</h3>
+<ul class="supplement">
+<li class="OptItm"><li class="flag1">確定得票</li></li>
+</ul>
+</div>
+<!--| 候補者table BGN |-->
+<table class="snkTbl01">
+<thead>
+<tr>
+<th class="rose"></th>
+<th class="photo"></th>
+<th class="namae"><div>氏名</div></th>
+<th class="num" colspan="2"><div>得票数<span>・</span>得票率</div></th>
+<th class="career"><div>略歴</div></th>
+<th class="party"><div>政党</div></th>
+<th class="status"><div>新旧</div></th>
+<th class="tosenkaisu"><div>当選<br/>回数</div></th>
+<th class="w"><div>重複</div></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="rose"><div><span class="shoto tosen" title="小選挙区で当選"></span></div></td>
+<td class="photo"><img alt="写真：いのとしろう" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171004SNSA0006S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">井野</span><span class="mei">俊郎</span><span class="age">(37)</span></div></td>
+<td class="num"><div>89,219<span>55.88<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp01.gif" width="55.88%"/></div></td>
+<td class="career"><div>〈元〉法務政務官</div></td>
+<td class="party"><div>自民</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>3<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000001">比例</a></div></td>
+</tr>
+<tr class="even">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：いしぜきたかし" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171004SNSA0007S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">石関</span><span class="mei">貴史</span><span class="age">(45)</span></div></td>
+<td class="num"><div>48,545<span>30.40<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="30.40%"/></div></td>
+<td class="career"><div>〈元〉衆院議運理事<span>／民</span></div></td>
+<td class="party"><div>希望</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>4<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJ00002701">比例</a></div></td>
+</tr>
+<tr class="odd">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：はせだなおゆき" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171004SNSA0008S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">長谷田</span><span class="mei">直之</span><span class="age">(61)</span></div></td>
+<td class="num"><div>21,908<span>13.72<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="13.72%"/></div></td>
+<td class="career"><div>党県常任委員</div></td>
+<td class="party"><div>共産</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"></td>
+</tr>
+</tbody>
+</table>
+<!--| 候補者table END |-->
+<!--| go top BGN |-->
+<div class="SnkPagetop"><span><a href="#Header">ページトップへ戻る</a></span></div>
+<!--| go top END |-->
+</div>
+<!--| 群馬2区  END |-->
+<!--| 群馬3区 BGN |-->
+<div class="areabox" id="Area003">
+<div class="snkH2Box">
+<h2>群馬3区<a class="areainfo2" href="#AreaDetailList">群馬の小選挙区一覧</a></h2>
+<h3>太田市3区域、館林市、板倉町、明和町、千代田町、大泉町、邑楽町</h3>
+<ul class="supplement">
+<li class="OptItm"><li class="flag1">確定得票</li></li>
+</ul>
+</div>
+<!--| 候補者table BGN |-->
+<table class="snkTbl01">
+<thead>
+<tr>
+<th class="rose"></th>
+<th class="photo"></th>
+<th class="namae"><div>氏名</div></th>
+<th class="num" colspan="2"><div>得票数<span>・</span>得票率</div></th>
+<th class="career"><div>略歴</div></th>
+<th class="party"><div>政党</div></th>
+<th class="status"><div>新旧</div></th>
+<th class="tosenkaisu"><div>当選<br/>回数</div></th>
+<th class="w"><div>重複</div></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="rose"><div><span class="shoto tosen" title="小選挙区で当選"></span></div></td>
+<td class="photo"><img alt="写真：ささがわひろよし" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170927SNSA0093S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">笹川</span><span class="mei">博義</span><span class="age">(51)</span></div></td>
+<td class="num"><div>83,446<span>55.30<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp01.gif" width="55.30%"/></div></td>
+<td class="career"><div>環境政務官</div></td>
+<td class="party"><div>自民</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>3<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000001">比例</a></div></td>
+</tr>
+<tr class="even">
+<td class="rose"><div><span class="hito tosen" title="比例区で当選"></span></div></td>
+<td class="photo"><img alt="写真：はせがわかいち" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170927SNSA0096S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">長谷川</span><span class="mei">嘉一</span><span class="age">(64)</span></div></td>
+<td class="num"><div>67,456<span>44.70<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="44.70%"/></div></td>
+<td class="career"><div>〈元〉県議<span>／民</span></div></td>
+<td class="party"><div>立憲</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>1<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJ000027AU">比例</a></div></td>
+</tr>
+</tbody>
+</table>
+<!--| 候補者table END |-->
+<!--| go top BGN |-->
+<div class="SnkPagetop"><span><a href="#Header">ページトップへ戻る</a></span></div>
+<!--| go top END |-->
+</div>
+<!--| 群馬3区  END |-->
+<!--| 群馬4区 BGN |-->
+<div class="areabox" id="Area004">
+<div class="snkH2Box">
+<h2>群馬4区<a class="areainfo2" href="#AreaDetailList">群馬の小選挙区一覧</a></h2>
+<h3>高崎市4区域、藤岡市、上野村、神流町</h3>
+<ul class="supplement">
+<li class="OptItm"><li class="flag1">確定得票</li></li>
+</ul>
+</div>
+<!--| 候補者table BGN |-->
+<table class="snkTbl01">
+<thead>
+<tr>
+<th class="rose"></th>
+<th class="photo"></th>
+<th class="namae"><div>氏名</div></th>
+<th class="num" colspan="2"><div>得票数<span>・</span>得票率</div></th>
+<th class="career"><div>略歴</div></th>
+<th class="party"><div>政党</div></th>
+<th class="status"><div>新旧</div></th>
+<th class="tosenkaisu"><div>当選<br/>回数</div></th>
+<th class="w"><div>重複</div></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="rose"><div><span class="shoto tosen" title="小選挙区で当選"></span></div></td>
+<td class="photo"><img alt="写真：ふくだたつお" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171003SNSA0085S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">福田</span><span class="mei">達夫</span><span class="age">(50)</span></div></td>
+<td class="num"><div>93,262<span>60.78<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp01.gif" width="60.78%"/></div></td>
+<td class="career"><div>防衛政務官</div></td>
+<td class="party"><div>自民</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>3<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000001">比例</a></div></td>
+</tr>
+<tr class="even">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：ふわひろき" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171002SNSA0030S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">不破</span><span class="mei">弘樹</span><span class="age">(51)</span></div></td>
+<td class="num"><div>36,167<span>23.57<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="23.57%"/></div></td>
+<td class="career"><div>〈元〉五輪陸上選手<span>／民</span></div></td>
+<td class="party"><div>希望</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJ00002701">比例</a></div></td>
+</tr>
+<tr class="odd">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：はぎわらさだお" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171002SNSA0032S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">萩原</span><span class="mei">貞夫</span><span class="age">(68)</span></div></td>
+<td class="num"><div>24,006<span>15.65<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="15.65%"/></div></td>
+<td class="career"><div>党地区常任委員</div></td>
+<td class="party"><div>共産</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"></td>
+</tr>
+</tbody>
+</table>
+<!--| 候補者table END |-->
+<!--| go top BGN |-->
+<div class="SnkPagetop"><span><a href="#Header">ページトップへ戻る</a></span></div>
+<!--| go top END |-->
+</div>
+<!--| 群馬4区  END |-->
+<!--| 群馬5区 BGN |-->
+<div class="areabox" id="Area005">
+<div class="snkH2Box">
+<h2>群馬5区<a class="areainfo2" href="#AreaDetailList">群馬の小選挙区一覧</a></h2>
+<h3>渋川市5区域、富岡市、安中市、高崎市5区域、榛東村、吉岡町、下仁田町、南牧村、甘楽町、中之条町、長野原町、嬬恋村、草津町、高山村、東吾妻町</h3>
+<ul class="supplement">
+<li class="OptItm"><li class="flag1">確定得票</li></li>
+</ul>
+</div>
+<!--| 候補者table BGN |-->
+<table class="snkTbl01">
+<thead>
+<tr>
+<th class="rose"></th>
+<th class="photo"></th>
+<th class="namae"><div>氏名</div></th>
+<th class="num" colspan="2"><div>得票数<span>・</span>得票率</div></th>
+<th class="career"><div>略歴</div></th>
+<th class="party"><div>政党</div></th>
+<th class="status"><div>新旧</div></th>
+<th class="tosenkaisu"><div>当選<br/>回数</div></th>
+<th class="w"><div>重複</div></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="rose"><div><span class="shoto tosen" title="小選挙区で当選"></span></div></td>
+<td class="photo"><img alt="写真：おぶちゆうこ" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170930SNSA0002S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">小渕</span><span class="mei">優子</span><span class="age">(43)</span></div></td>
+<td class="num"><div>109,453<span>64.95<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp01.gif" width="64.95%"/></div></td>
+<td class="career"><div>〈元〉経産相</div></td>
+<td class="party"><div>自民</div></td>
+<td class="status"><div>前</div></td>
+<td class="tosenkaisu"><div>7<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000001">比例</a></div></td>
+</tr>
+<tr class="even">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：いのくちさちこ" height="45" src="/senkyo/senkyo2017/carta/photo/P_20171005SNSA0055S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">猪口</span><span class="mei">幸子</span><span class="age">(61)</span></div></td>
+<td class="num"><div>30,127<span>17.88<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="17.88%"/></div></td>
+<td class="career"><div>医師</div></td>
+<td class="party"><div>希望</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJ00002701">比例</a></div></td>
+</tr>
+<tr class="odd">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：いとうたつや" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170928SNSA0001S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">伊藤</span><span class="mei">達也</span><span class="age">(34)</span></div></td>
+<td class="num"><div>14,935<span>8.86<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="8.86%"/></div></td>
+<td class="career"><div>党県委員</div></td>
+<td class="party"><div>共産</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"></td>
+</tr>
+<tr class="even">
+<td class="rose"></td>
+<td class="photo"><img alt="写真：たかはしのぶゆき" height="45" src="/senkyo/senkyo2017/carta/photo/P_20170928SNSA0002S.jpeg" width="45"/></td>
+<td class="namae"><div><span class="sei">高橋</span><span class="mei">宣之</span><span class="age">(63)</span></div></td>
+<td class="num"><div>14,008<span>8.31<span class="tani">%</span></span></div></td>
+<td class="num2"><div><img alt="得票" height="20" src="/senkyo/senkyo2017/images/vgraphBar_grp99.gif" width="8.31%"/></div></td>
+<td class="career"><div>党県副代表</div></td>
+<td class="party"><div>社民</div></td>
+<td class="status"><div>新</div></td>
+<td class="tosenkaisu"><div>0<span>回</span></div></td>
+<td class="w"><div><a href="O03.html#TKJZX000005">比例</a></div></td>
+</tr>
+</tbody>
+</table>
+<!--| 候補者table END |-->
+<!--| go top BGN |-->
+<div class="SnkPagetop"><span><a href="#Header">ページトップへ戻る</a></span></div>
+<!--| go top END |-->
+</div>
+<!--| 群馬5区  END |-->
+</div><!-- Section END -->
+<!--| kaihyo data END |-->
+<!--#include virtual="/senkyo/senkyo2017/kaihyo/data/kaihyo_A10.htm"-->
+<!--| kaihyo END |-->
+<!--| mikataBox BGN |-->
+<div class="Section">
+<div class="MikataBox" id="KohoMikata">
+<dl>
+<dt>開票速報一覧・記事の見方</dt>
+<dd>
+<ul>
+<li>開票途中での当選者は朝日新聞社の判定による。得票の少ない方の候補を当選とする場合があります。<br/>
+<span class="shosenkyoku_setsumei">
+<img height="15" src="//www.asahicom.jp/senkyo/senkyo2017/images/to.png"/>小選挙区で当選 / <img height="20" src="//www.asahicom.jp/senkyo/senkyo2017/images/to_hirei.png"/>比例区で当選 </span>
+<span class="hireiku_setsumei">
+<img height="20" src="//www.asahicom.jp/senkyo/senkyo2017/images/to_sho.png"/>小選挙区で当選 / <img height="15" src="//www.asahicom.jp/senkyo/senkyo2017/images/to.png"/>比例区で当選 </span>
+/ <img height="20" src="//www.asahicom.jp/senkyo/senkyo2017/images/to_kaku.png"/>どちらかで当選
+
+</li>
+<li>集計途中では、比例区の政党名と候補の得票の合計が政党得票数と一致しないことがあります。</li>
+<li>政党の略称は、自民（自由民主党）、希望（希望の党）、公明（公明党）、共産（日本共産党）、立憲（立憲民主党）、維新（日本維新の会）、社民（社会民主党）、こころ（日本のこころ）、大地（新党大地）、幸福（幸福実現党）、支持（支持政党なし）、無所は無所属。</li>
+<li>希望と立憲の候補者について、略歴末尾の「民」「維」「由」は、原則として前職は解散時の政党（民進、維新、自由）、元職・新顔は解散時に公認予定だった政党を表します。</li>
+<li>当選者は選挙管理委員会の発表に加え、朝日新聞社が全国で実施した出口調査や取材を元に判断しています。開票前や一部未開票の選挙区も同様です。</li>
+<li>ブラウザーや端末によっては、正しく表示されないことがあります。</li>
+</ul>
+</dd>
+</dl>
+</div><!-- #KohoMikata END -->
+</div><!-- Section END -->
+<!--#include virtual="/senkyo/senkyo2017/esi/kaihyo_mikata.htm"-->
+<!--| mikataBox END |-->
+<!--googleoff:index-->
+<!--| AreaDetailNavi BGN |-->
+<div id="AreaDetailList"><div><ul><li id="AraaTableA01"><h2>北海道　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">札幌市中央区、札幌市北区1区域、札幌市南区、札幌市西区1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">札幌市東区、札幌市北区2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">札幌市白石区、札幌市豊平区、札幌市清田区</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">札幌市手稲区、札幌市西区4区域、小樽市、島牧村、寿都町、黒松内町、蘭越町、ニセコ町、真狩村、留寿都村、喜茂別町、京極町、倶知安町、共和町、岩内町、泊村、神恵内村、積丹町、古平町、仁木町、余市町、赤井川村</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">札幌市厚別区、江別市、千歳市、恵庭市、北広島市、石狩市、当別町、新篠津村</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">旭川市、士別市、名寄市、富良野市、鷹栖町、東神楽町、当麻町、比布町、愛別町、上川町、東川町、美瑛町、上富良野町、中富良野町、南富良野町、占冠村、和寒町、剣淵町、下川町、美深町、音威子府村、中川町、幌加内町</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">釧路市、根室市、釧路町、厚岸町、浜中町、標茶町、弟子屈町、鶴居村、白糠町、別海町、中標津町、標津町、羅臼町</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">函館市、北斗市、松前町、福島町、知内町、木古内町、七飯町、鹿部町、森町、八雲町、長万部町、江差町、上ノ国町、厚沢部町、乙部町、奥尻町、今金町、せたな町</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">室蘭市、苫小牧市、登別市、伊達市、豊浦町、壮瞥町、白老町、厚真町、洞爺湖町、安平町、むかわ町、日高町、平取町、新冠町、浦河町、様似町、えりも町、新ひだか町</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">夕張市、岩見沢市、留萌市、美唄市、芦別市、赤平市、三笠市、滝川市、砂川市、歌志内市、深川市、南幌町、奈井江町、上砂川町、由仁町、長沼町、栗山町、月形町、浦臼町、新十津川町、妹背牛町、秩父別町、雨竜町、北竜町、沼田町、増毛町、小平町、苫前町、羽幌町、初山別村、遠別町、天塩町</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">帯広市、音更町、士幌町、上士幌町、鹿追町、新得町、清水町、芽室町、中札内村、更別村、大樹町、広尾町、幕別町、池田町、豊頃町、本別町、足寄町、陸別町、浦幌町</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">北見市、網走市、稚内市、紋別市、猿払村、浜頓別町、中頓別町、枝幸町、豊富町、礼文町、利尻町、利尻富士町、幌延町、美幌町、津別町、斜里町、清里町、小清水町、訓子府町、置戸町、佐呂間町、遠軽町、湧別町、滝上町、興部町、西興部村、雄武町、大空町</td></tr></tbody></table></li>
+<li id="AraaTableA02"><h2>青森　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">青森市、むつ市、平内町、今別町、蓬田村、外ケ浜町、野辺地町、横浜町、六ケ所村、大間町、東通村、風間浦村、佐井村</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">八戸市、十和田市、三沢市、七戸町、六戸町、東北町、おいらせ町、三戸町、五戸町、田子町、南部町、階上町、新郷村</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">弘前市、黒石市、五所川原市、つがる市、平川市、鰺ケ沢町、深浦町、西目屋村、藤崎町、大鰐町、田舎館村、板柳町、鶴田町、中泊町</td></tr></tbody></table></li>
+<li id="AraaTableA03"><h2>岩手　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">盛岡市、紫波町、矢巾町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">宮古市、大船渡市、久慈市、遠野市、陸前高田市、釜石市、二戸市、八幡平市、滝沢市、雫石町、葛巻町、岩手町、住田町、大槌町、山田町、岩泉町、田野畑村、普代村、軽米町、野田村、九戸村、洋野町、一戸町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">花巻市、北上市、一関市、奥州市、西和賀町、金ケ崎町、平泉町</td></tr></tbody></table></li>
+<li id="AraaTableA04"><h2>宮城　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">仙台市青葉区、仙台市太白区1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">仙台市宮城野区、仙台市若林区、仙台市泉区</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">仙台市太白区3区域、白石市、名取市、角田市、岩沼市、蔵王町、七ケ宿町、大河原町、村田町、柴田町、川崎町、丸森町、亘理町、山元町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">塩釜市、多賀城市、富谷市、七ケ浜町、利府町、大和町、大衡村、色麻町、加美町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">石巻市、東松島市、大崎市5区域、松島町、大郷町、涌谷町、美里町、女川町、南三陸町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">気仙沼市、登米市、栗原市、大崎市6区域</td></tr></tbody></table></li>
+<li id="AraaTableA05"><h2>秋田　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">秋田市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">能代市、大館市、男鹿市、鹿角市、潟上市、北秋田市、小坂町、上小阿仁村、藤里町、三種町、八峰町、五城目町、八郎潟町、井川町、大潟村</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">横手市、湯沢市、由利本荘市、大仙市、にかほ市、仙北市、美郷町、羽後町、東成瀬村</td></tr></tbody></table></li>
+<li id="AraaTableA06"><h2>山形　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">山形市、上山市、天童市、山辺町、中山町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">米沢市、寒河江市、村山市、長井市、東根市、尾花沢市、南陽市、河北町、西川町、朝日町、大江町、大石田町、高畠町、川西町、小国町、白鷹町、飯豊町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">鶴岡市、酒田市、新庄市、金山町、最上町、舟形町、真室川町、大蔵村、鮭川村、戸沢村、三川町、庄内町、遊佐町</td></tr></tbody></table></li>
+<li id="AraaTableA07"><h2>福島　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">福島市、相馬市、南相馬市、伊達市、桑折町、国見町、川俣町、新地町、飯舘村</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">郡山市、二本松市、本宮市、大玉村</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">白河市、須賀川市、田村市、鏡石町、天栄村、泉崎村、中島村、矢吹町、棚倉町、矢祭町、塙町、鮫川村、石川町、玉川村、平田村、浅川町、古殿町、三春町、小野町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">会津若松市、喜多方市、下郷町、檜枝岐村、只見町、南会津町、北塩原村、西会津町、磐梯町、猪苗代町、会津坂下町、湯川村、柳津町、三島町、金山町、昭和村、会津美里町、西郷村</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">いわき市、広野町、楢葉町、富岡町、川内村、大熊町、双葉町、浪江町、葛尾村</td></tr></tbody></table></li>
+<li id="AraaTableA08"><h2>茨城　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">水戸市1区域、下妻市1区域、笠間市1区域、筑西市、桜川市、常陸大宮市1区域、城里町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">鹿嶋市、潮来市、神栖市、行方市、鉾田市、小美玉市2区域、水戸市2区域、笠間市2区域、茨城町、大洗町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">龍ケ崎市、取手市、牛久市、守谷市、稲敷市、美浦村、阿見町、河内町、利根町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">常陸太田市、ひたちなか市、常陸大宮市4区域、那珂市、大子町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">日立市、高萩市、北茨城市、東海村</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">土浦市、石岡市、つくば市、かすみがうら市、つくばみらい市、小美玉市6区域</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">古河市、結城市、常総市、坂東市、下妻市7区域、八千代町、五霞町、境町</td></tr></tbody></table></li>
+<li id="AraaTableA09"><h2>栃木　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">宇都宮市1区域、下野市1区域、上三川町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">鹿沼市、日光市、さくら市、宇都宮市2区域、栃木市2区域、塩谷町、高根沢町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">大田原市、矢板市、那須塩原市、那須烏山市、那須町、那珂川町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">小山市、真岡市、下野市4区域、栃木市4区域、益子町、茂木町、市貝町、芳賀町、壬生町、野木町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">足利市、栃木市5区域、佐野市</td></tr></tbody></table></li>
+<li id="AraaTableA10"><h2>群馬　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">前橋市、沼田市、桐生市1区域、みどり市1区域、渋川市1区域、片品村、川場村、昭和村、みなかみ町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">桐生市2区域、伊勢崎市、みどり市2区域、太田市2区域、玉村町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">太田市3区域、館林市、板倉町、明和町、千代田町、大泉町、邑楽町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">高崎市4区域、藤岡市、上野村、神流町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">渋川市5区域、富岡市、安中市、高崎市5区域、榛東村、吉岡町、下仁田町、南牧村、甘楽町、中之条町、長野原町、嬬恋村、草津町、高山村、東吾妻町</td></tr></tbody></table></li>
+<li id="AraaTableA11"><h2>埼玉　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">さいたま市見沼区1区域、さいたま市浦和区、さいたま市緑区、さいたま市岩槻区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">川口市2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">草加市、越谷市3区域</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">朝霞市、志木市、和光市、新座市</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">さいたま市西区、さいたま市北区、さいたま市大宮区、さいたま市中央区、さいたま市見沼区5区域</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">鴻巣市6区域、上尾市、桶川市、北本市、伊奈町</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">川越市、富士見市、ふじみ野市7区域</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">所沢市、ふじみ野市8区域、三芳町</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">飯能市、狭山市、入間市、日高市、毛呂山町、越生町</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">東松山市、坂戸市、鶴ケ島市、滑川町、嵐山町、小川町、川島町、吉見町、鳩山町、ときがわ町</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">秩父市、本庄市、深谷市、熊谷市11区域、横瀬町、皆野町、長瀞町、小鹿野町、東秩父村、美里町、神川町、上里町、寄居町</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">熊谷市12区域、行田市、加須市、羽生市、鴻巣市12区域</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">春日部市13区域、久喜市13区域、蓮田市、白岡市、越谷市13区域、宮代町</td></tr><tr><td class="senkyoku">14区</td><td class="shichoson">八潮市、三郷市、幸手市、吉川市、久喜市14区域、春日部市14区域、杉戸町、松伏町</td></tr><tr><td class="senkyoku">15区</td><td class="shichoson">さいたま市桜区、さいたま市南区、蕨市、戸田市、川口市15区域</td></tr></tbody></table></li>
+<li id="AraaTableA12"><h2>千葉　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">千葉市中央区、千葉市稲毛区、千葉市美浜区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">千葉市花見川区、習志野市、八千代市</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">千葉市緑区、市原市</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">船橋市4区域</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">市川市5区域、浦安市</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">松戸市6区域、市川市6区域</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">野田市、流山市、松戸市7区域</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">柏市8区域、我孫子市</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">千葉市若葉区、佐倉市、四街道市、八街市</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">銚子市、成田市、旭市、匝瑳市、香取市、神崎町、多古町、東庄町、横芝光町10区域</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">茂原市、東金市、勝浦市、山武市、いすみ市、大網白里市、九十九里町、芝山町、横芝光町11区域、一宮町、睦沢町、長生村、白子町、長柄町、長南町、大多喜町、御宿町</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">館山市、木更津市、鴨川市、君津市、富津市、袖ケ浦市、南房総市、鋸南町</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">鎌ケ谷市、印西市、白井市、富里市、柏市13区域、船橋市13区域、酒々井町、栄町</td></tr></tbody></table></li>
+<li id="AraaTableA13"><h2>東京　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">千代田区、港区1区域、新宿区1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">中央区、文京区、台東区2区域、港区2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">品川区3区域、大田区3区域、大島町、利島村、新島村、神津島村、三宅村、御蔵島村、八丈町、青ケ島村、小笠原村</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">大田区4区域</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">目黒区5区域、世田谷区5区域</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">世田谷区6区域</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">渋谷区、中野区7区域、杉並区7区域、品川区7区域、目黒区7区域</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">杉並区8区域</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">練馬区9区域</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">豊島区10区域、練馬区10区域、新宿区10区域、中野区10区域</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">板橋区11区域</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">北区、足立区12区域、豊島区12区域、板橋区12区域</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">足立区13区域</td></tr><tr><td class="senkyoku">14区</td><td class="shichoson">墨田区、荒川区、台東区14区域</td></tr><tr><td class="senkyoku">15区</td><td class="shichoson">江東区</td></tr><tr><td class="senkyoku">16区</td><td class="shichoson">江戸川区16区域</td></tr><tr><td class="senkyoku">17区</td><td class="shichoson">葛飾区、江戸川区17区域</td></tr><tr><td class="senkyoku">18区</td><td class="shichoson">武蔵野市、府中市、小金井市</td></tr><tr><td class="senkyoku">19区</td><td class="shichoson">小平市、国分寺市、西東京市</td></tr><tr><td class="senkyoku">20区</td><td class="shichoson">東村山市、東大和市、清瀬市、東久留米市、武蔵村山市</td></tr><tr><td class="senkyoku">21区</td><td class="shichoson">八王子市21区域、立川市、日野市、国立市、多摩市21区域、稲城市21区域</td></tr><tr><td class="senkyoku">22区</td><td class="shichoson">三鷹市、調布市、狛江市、稲城市22区域</td></tr><tr><td class="senkyoku">23区</td><td class="shichoson">町田市、多摩市23区域</td></tr><tr><td class="senkyoku">24区</td><td class="shichoson">八王子24区域</td></tr><tr><td class="senkyoku">25区</td><td class="shichoson">青梅市、昭島市、福生市、羽村市、あきる野市、瑞穂町、日の出町、檜原村、奥多摩町</td></tr></tbody></table></li>
+<li id="AraaTableA14"><h2>神奈川　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">横浜市中区、横浜市磯子区、横浜市金沢区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">横浜市西区、横浜市南区、横浜市港南区</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">横浜市鶴見区、横浜市神奈川区</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">横浜市栄区、鎌倉市、逗子市、葉山町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">横浜市戸塚区、横浜市瀬谷区、横浜市泉区</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">横浜市保土ケ谷区、横浜市旭区</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">横浜市港北区、横浜市都筑区7区域</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">横浜市緑区、横浜市青葉区、横浜市都筑区8区域</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">川崎市多摩区、川崎市宮前区9区域、川崎市麻生区</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">川崎市川崎区、川崎市幸区、川崎市中原区10区域</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">横須賀市、三浦市</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">藤沢市、寒川町</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">大和市、海老名市、座間市13区域、綾瀬市</td></tr><tr><td class="senkyoku">14区</td><td class="shichoson">相模原市緑区14区域、相模原市中央区、相模原市南区14区域</td></tr><tr><td class="senkyoku">15区</td><td class="shichoson">平塚市、茅ケ崎市、大磯町、二宮町</td></tr><tr><td class="senkyoku">16区</td><td class="shichoson">相模原市緑区16区域、相模原市南区16区域、厚木市、伊勢原市、座間市16区域、愛川町、清川村</td></tr><tr><td class="senkyoku">17区</td><td class="shichoson">小田原市、秦野市、南足柄市、中井町、大井町、松田町、山北町、開成町、箱根町、真鶴町、湯河原町</td></tr><tr><td class="senkyoku">18区</td><td class="shichoson">川崎市高津区、川崎市中原区18区域、川崎市宮前区18区域</td></tr></tbody></table></li>
+<li id="AraaTableA15"><h2>新潟　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">新潟市北区1区域、新潟市東区、新潟市中央区、新潟市江南区1区域、新潟市西区1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">新潟市南区2区域、新潟市西区2区域、新潟市西蒲区、柏崎市、燕市、佐渡市、長岡市2区域、弥彦村、出雲崎町、刈羽村</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">新潟市北区3区域、新発田市、村上市、五泉市、阿賀野市、胎内市、聖籠町、阿賀町、関川村、粟島浦村</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">新潟市江南区・北区4区域、新潟市秋葉区、新潟市南区4区域、三条市、加茂市、見附市、長岡市4区域、田上町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">長岡市5区域、小千谷市、魚沼市、南魚沼市、湯沢町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">十日町市、糸魚川市、妙高市、上越市、津南町</td></tr></tbody></table></li>
+<li id="AraaTableA16"><h2>富山　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">富山市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">魚津市、滑川市、黒部市、富山市2区域、舟橋村、上市町、立山町、入善町、朝日町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">高岡市、氷見市、砺波市、小矢部市、南砺市、射水市</td></tr></tbody></table></li>
+<li id="AraaTableA17"><h2>石川　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">金沢市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">小松市、加賀市、白山市、能美市、野々市市、川北町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">七尾市、輪島市、珠洲市、羽咋市、かほく市、津幡町、内灘町、志賀町、宝達志水町、中能登町、穴水町、能登町</td></tr></tbody></table></li>
+<li id="AraaTableA18"><h2>福井　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">福井市、大野市、勝山市、あわら市、坂井市、永平寺町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">敦賀市、小浜市、鯖江市、越前市、池田町、南越前町、越前町、美浜町、高浜町、おおい町、若狭町</td></tr></tbody></table></li>
+<li id="AraaTableA19"><h2>山梨　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">甲府市、韮崎市、南アルプス市、北杜市、甲斐市、中央市、市川三郷町、早川町、身延町、南部町、富士川町、昭和町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">富士吉田市、都留市、山梨市、大月市、笛吹市、上野原市、甲州市、道志村、西桂町、忍野村、山中湖村、鳴沢村、富士河口湖町、小菅村、丹波山村</td></tr></tbody></table></li>
+<li id="AraaTableA20"><h2>長野　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">長野市1区域、須坂市、中野市、飯山市、小布施町、高山村、山ノ内町、木島平村、野沢温泉村、栄村</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">松本市、大町市、安曇野市、長野市2区域、麻績村、生坂村、山形村、朝日村、筑北村、池田町、松川村、白馬村、小谷村、信濃町、小川村、飯綱町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">上田市、小諸市、佐久市、千曲市、東御市、小海町、川上村、南牧村、南相木村、北相木村、佐久穂町、軽井沢町、御代田町、立科町、青木村、長和町、坂城町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">岡谷市、諏訪市、茅野市、塩尻市、下諏訪町、富士見町、原村、上松町、南木曽町、木祖村、王滝村、大桑村、木曽町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">飯田市、伊那市、駒ケ根市、辰野町、箕輪町、飯島町、南箕輪村、中川村、宮田村、松川町、高森町、阿南町、阿智村、平谷村、根羽村、下條村、売木村、天龍村、泰阜村、喬木村、豊丘村、大鹿村</td></tr></tbody></table></li>
+<li id="AraaTableA21"><h2>岐阜　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">岐阜市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">大垣市、海津市、養老町、垂井町、関ケ原町、神戸町、輪之内町、安八町、揖斐川町、大野町、池田町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">関市、美濃市、羽島市、各務原市、山県市、瑞穂市、本巣市、岐阜市3区域、岐南町、笠松町、北方町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">高山市、美濃加茂市、可児市、飛騨市、郡上市、下呂市、坂祝町、富加町、川辺町、七宗町、八百津町、白川町、東白川村、御嵩町、白川村</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">多治見市、中津川市、瑞浪市、恵那市、土岐市</td></tr></tbody></table></li>
+<li id="AraaTableA22"><h2>静岡　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">静岡市葵開票区、静岡市駿河開票区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">島田市、焼津市、藤枝市、御前崎市2区域、牧之原市、吉田町、川根本町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">浜松市天竜区3区域、磐田市、掛川市、袋井市、菊川市、御前崎市3区域、森町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">静岡市清水開票区、富士宮市、富士市4区域</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">三島市、富士市5区域、御殿場市、裾野市、伊豆の国市5区域、函南町、小山町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">沼津市、熱海市、伊東市、下田市、伊豆市、伊豆の国市6区域、東伊豆町、河津町、南伊豆町、松崎町、西伊豆町、清水町、長泉町</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">浜松市中区7区域、浜松市西区、浜松市南区7区域、浜松市北区、浜松市浜北区、浜松市天竜区7区域、湖西市</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">浜松市東区、浜松市中区8区域、浜松市南区8区域</td></tr></tbody></table></li>
+<li id="AraaTableA23"><h2>愛知　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">名古屋市東区、名古屋市北区、名古屋市西区、名古屋市中区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">名古屋市千種区、名古屋市守山区、名古屋市名東区</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">名古屋市昭和区、名古屋市緑区、名古屋市天白区</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">名古屋市瑞穂区、名古屋市熱田区、名古屋市港区、名古屋市南区</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">名古屋市中村区、名古屋市中川区、清須市、北名古屋市、豊山町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">瀬戸市6区域、春日井市、犬山市、小牧市</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">大府市、尾張旭市、豊明市、日進市、長久手市、瀬戸市7区域、東郷町</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">半田市、常滑市、東海市、知多市、阿久比町、東浦町、南知多町、美浜町、武豊町</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">津島市、稲沢市、愛西市、弥富市、あま市、一宮市9区域、大治町、蟹江町、飛島村</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">一宮市10区域、江南市、岩倉市、大口町、扶桑町</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">豊田市11区域、みよし市</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">岡崎市、西尾市</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">碧南市、刈谷市、安城市、知立市、高浜市</td></tr><tr><td class="senkyoku">14区</td><td class="shichoson">豊川市、蒲郡市、新城市、豊田市14区域、幸田町、設楽町、東栄町、豊根村</td></tr><tr><td class="senkyoku">15区</td><td class="shichoson">豊橋市、田原市</td></tr></tbody></table></li>
+<li id="AraaTableA24"><h2>三重　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">津市、松阪市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">四日市市2区域、鈴鹿市、名張市、亀山市、伊賀市</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">桑名市、いなべ市、四日市市3区域、木曽岬町、東員町、菰野町、朝日町、川越町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">伊勢市、尾鷲市、鳥羽市、熊野市、志摩市、多気町、明和町、大台町、玉城町、度会町、大紀町、南伊勢町、紀北町、御浜町、紀宝町</td></tr></tbody></table></li>
+<li id="AraaTableA25"><h2>滋賀　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">大津市、高島市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">彦根市、長浜市、米原市、東近江市2区域、愛荘町、豊郷町、甲良町、多賀町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">草津市、守山市、栗東市、野洲市</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">近江八幡市、甲賀市、湖南市、東近江市4区域、日野町、竜王町</td></tr></tbody></table></li>
+<li id="AraaTableA26"><h2>京都　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">京都市北区、京都市上京区、京都市中京区、京都市下京区、京都市南区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">京都市左京区、京都市東山区、京都市山科区</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">京都市伏見区、向日市、長岡京市、大山崎町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">京都市右京区、京都市西京区、亀岡市、南丹市、京丹波町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">福知山市、舞鶴市、綾部市、宮津市、京丹後市、伊根町、与謝野町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">宇治市、城陽市、八幡市、京田辺市、木津川市、久御山町、井手町、宇治田原町、笠置町、和束町、精華町、南山城村</td></tr></tbody></table></li>
+<li id="AraaTableA27"><h2>大阪　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">大阪市西区、大阪市港区、大阪市天王寺区、大阪市浪速区、大阪市東成区、大阪市中央区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">大阪市生野区、大阪市阿倍野区、大阪市東住吉区、大阪市平野区</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">大阪市大正区、大阪市住吉区、大阪市西成区、大阪市住之江区</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">大阪市都島区、大阪市福島区、大阪市城東区、大阪市北区</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">大阪市此花区、大阪市西淀川区、大阪市東淀川区、大阪市淀川区</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">大阪市旭区、大阪市鶴見区、守口市、門真市</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">吹田市、摂津市</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">豊中市</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">池田市、茨木市、箕面市、豊能町、能勢町</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">高槻市、島本町</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">枚方市、交野市</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">寝屋川市、大東市、四條畷市</td></tr><tr><td class="senkyoku">13区</td><td class="shichoson">東大阪市</td></tr><tr><td class="senkyoku">14区</td><td class="shichoson">八尾市、柏原市、羽曳野市、藤井寺市</td></tr><tr><td class="senkyoku">15区</td><td class="shichoson">堺市美原区、富田林市、河内長野市、松原市、大阪狭山市、太子町、河南町、千早赤阪村</td></tr><tr><td class="senkyoku">16区</td><td class="shichoson">堺市堺区、堺市東区、堺市北区</td></tr><tr><td class="senkyoku">17区</td><td class="shichoson">堺市中区、堺市西区、堺市南区</td></tr><tr><td class="senkyoku">18区</td><td class="shichoson">岸和田市、泉大津市、和泉市、高石市、忠岡町</td></tr><tr><td class="senkyoku">19区</td><td class="shichoson">貝塚市、泉佐野市、泉南市、阪南市、熊取町、田尻町、岬町</td></tr></tbody></table></li>
+<li id="AraaTableA28"><h2>兵庫　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">神戸市東灘区、神戸市灘区、神戸市中央区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">神戸市兵庫区、神戸市長田区、神戸市北区、西宮市2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">神戸市須磨区、神戸市垂水区</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">神戸市西区、西脇市、三木市、小野市、加西市、加東市、多可町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">豊岡市、川西市5区域、三田市、篠山市、養父市、丹波市、朝来市、猪名川町、香美町、新温泉町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">伊丹市、宝塚市、川西市6区域</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">芦屋市、西宮市7区域</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">尼崎市</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">明石市、洲本市、南あわじ市、淡路市</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">加古川市、高砂市、稲美町、播磨町</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">姫路市11区域</td></tr><tr><td class="senkyoku">12区</td><td class="shichoson">相生市、赤穂市、宍粟市、たつの市、姫路市12区域、市川町、福崎町、神河町、太子町、上郡町、佐用町</td></tr></tbody></table></li>
+<li id="AraaTableA29"><h2>奈良　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">奈良市1区域、生駒市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">大和郡山市、天理市、香芝市、奈良市2区域、山添村、平群町、三郷町、斑鳩町、安堵町、川西町、三宅町、田原本町、上牧町、王寺町、広陵町、河合町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">大和高田市、橿原市、桜井市、五條市、御所市、葛城市、宇陀市、曽爾村、御杖村、高取町、明日香村、吉野町、大淀町、下市町、黒滝村、天川村、野迫川村、十津川村、下北山村、上北山村、川上村、東吉野村</td></tr></tbody></table></li>
+<li id="AraaTableA30"><h2>和歌山　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">和歌山市</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">海南市、橋本市、有田市、紀の川市、岩出市、紀美野町、かつらぎ町、九度山町、高野町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">御坊市、田辺市、新宮市、湯浅町、広川町、有田川町、美浜町、日高町、由良町、印南町、みなべ町、日高川町、白浜町、上富田町、すさみ町、那智勝浦町、太地町、古座川町、北山村、串本町</td></tr></tbody></table></li>
+<li id="AraaTableA31"><h2>鳥取　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">鳥取市、倉吉市、岩美町、若桜町、智頭町、八頭町、三朝町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">米子市、境港市、湯梨浜町、琴浦町、北栄町、日吉津村、大山町、南部町、伯耆町、日南町、日野町、江府町</td></tr></tbody></table></li>
+<li id="AraaTableA32"><h2>島根　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">松江市、安来市、出雲市1区域、雲南市1区域、奥出雲町、海士町、西ノ島町、知夫村、隠岐の島町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">浜田市、出雲市2区域、益田市、大田市、江津市、雲南市2区域、飯南町、川本町、美郷町、邑南町、津和野町、吉賀町</td></tr></tbody></table></li>
+<li id="AraaTableA33"><h2>岡山　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">岡山市北区1区域、岡山市南区1区域、吉備中央町1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">岡山市中区、岡山市東区2区域、岡山市北区2区域、岡山市南区2区域、玉野市、瀬戸内市</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">岡山市東区3区域、津山市、備前市、赤磐市、真庭市3区域、美作市、和気町、新庄村、鏡野町、勝央町、奈義町、西粟倉村、久米南町、美咲町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">倉敷市4区域、早島町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">笠岡市、井原市、総社市、高梁市、新見市、浅口市、倉敷市5区域、真庭市5区域、里庄町、矢掛町、吉備中央町5区域</td></tr></tbody></table></li>
+<li id="AraaTableA34"><h2>広島　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">広島市中区、広島市東区、広島市南区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">広島市西区、広島市佐伯区、大竹市、廿日市市、江田島市2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">広島市安佐南区、広島市安佐北区、安芸高田市、安芸太田町、北広島町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">広島市安芸区、東広島市4区域、三原市4区域、府中町、海田町、熊野町、坂町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">呉市、竹原市、三原市5区域、東広島市5区域、江田島市5区域、尾道市5区域、大崎上島町</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">三原市6区域、尾道市6区域、府中市、三次市、庄原市、世羅町、神石高原町</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">福山市</td></tr></tbody></table></li>
+<li id="AraaTableA35"><h2>山口　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">山口市1区域、防府市、周南市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">下松市、岩国市、光市、柳井市、周南市2区域、周防大島町、和木町、上関町、田布施町、平生町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">宇部市、萩市、美祢市、山陽小野田市、山口市3区域、阿武町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">下関市、長門市</td></tr></tbody></table></li>
+<li id="AraaTableA36"><h2>徳島　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">徳島市、小松島市、阿南市、勝浦町、上勝町、佐那河内村、石井町、神山町、那賀町、牟岐町、美波町、海陽町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">鳴門市、吉野川市、阿波市、美馬市、三好市、松茂町、北島町、藍住町、板野町、上板町、つるぎ町、東みよし町</td></tr></tbody></table></li>
+<li id="AraaTableA37"><h2>香川　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">高松市1区域、土庄町、小豆島町、直島町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">坂出市、さぬき市、東かがわ市、丸亀市2区域、高松市2区域、三木町、宇多津町、綾川町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">丸亀市3区域、善通寺市、観音寺市、三豊市、琴平町、多度津町、まんのう町</td></tr></tbody></table></li>
+<li id="AraaTableA38"><h2>愛媛　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">松山市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">今治市、東温市、松山市2区域、上島町、松前町、砥部町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">新居浜市、西条市、四国中央市</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">宇和島市、八幡浜市、大洲市、伊予市、西予市、久万高原町、内子町、伊方町、松野町、鬼北町、愛南町</td></tr></tbody></table></li>
+<li id="AraaTableA39"><h2>高知　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">高知市1区域、室戸市、安芸市、南国市、香南市、香美市、東洋町、奈半利町、田野町、安田町、北川村、馬路村、芸西村、本山町、大豊町、土佐町、大川村</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">土佐市、須崎市、宿毛市、土佐清水市、四万十市、高知市2区域、いの町、仁淀川町、中土佐町、佐川町、越知町、梼原町、日高村、津野町、四万十町、大月町、三原村、黒潮町</td></tr></tbody></table></li>
+<li id="AraaTableA40"><h2>福岡　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">福岡市東区、福岡市博多区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">福岡市中央区、福岡市南区2区域、福岡市城南区2区域</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">福岡市西区、福岡市早良区、福岡市城南区3区域、糸島市</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">宗像市、古賀市、福津市、宇美町、篠栗町、志免町、須恵町、新宮町、久山町、粕屋町</td></tr><tr><td class="senkyoku">5区</td><td class="shichoson">福岡市南区5区域、筑紫野市、春日市、大野城市、太宰府市、朝倉市、那珂川町、筑前町、東峰村</td></tr><tr><td class="senkyoku">6区</td><td class="shichoson">久留米市、大川市、小郡市、うきは市、大刀洗町、大木町</td></tr><tr><td class="senkyoku">7区</td><td class="shichoson">大牟田市、柳川市、八女市、筑後市、みやま市、広川町</td></tr><tr><td class="senkyoku">8区</td><td class="shichoson">直方市、飯塚市、中間市、宮若市、嘉麻市、芦屋町、水巻町、岡垣町、遠賀町、小竹町、鞍手町、桂川町</td></tr><tr><td class="senkyoku">9区</td><td class="shichoson">北九州市若松区、北九州市戸畑区、北九州市八幡東区、北九州市八幡西区</td></tr><tr><td class="senkyoku">10区</td><td class="shichoson">北九州市門司区、北九州市小倉北区、北九州市小倉南区</td></tr><tr><td class="senkyoku">11区</td><td class="shichoson">田川市、行橋市、豊前市、香春町、添田町、糸田町、川崎町、大任町、赤村、福智町、苅田町、みやこ町、吉富町、上毛町、築上町</td></tr></tbody></table></li>
+<li id="AraaTableA41"><h2>佐賀　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">佐賀市、鳥栖市、神埼市、吉野ケ里町、基山町、上峰町、みやき町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">唐津市、多久市、伊万里市、武雄市、鹿島市、小城市、嬉野市、玄海町、有田町、大町町、江北町、白石町、太良町</td></tr></tbody></table></li>
+<li id="AraaTableA42"><h2>長崎　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">長崎市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">島原市、諫早市、雲仙市、南島原市、長崎市2区域、長与町、時津町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">佐世保市3区域、大村市、対馬市、壱岐市、五島市、東彼杵町、川棚町、波佐見町、小値賀町、新上五島町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">平戸市、松浦市、西海市、佐世保市4区域、佐々町</td></tr></tbody></table></li>
+<li id="AraaTableA43"><h2>熊本　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">熊本市中央区、熊本市東区、熊本市北区</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">熊本市西区、熊本市南区、荒尾市、玉名市、玉東町、南関町、長洲町、和水町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">山鹿市、菊池市、阿蘇市、合志市、大津町、菊陽町、南小国町、小国町、産山村、高森町、西原村、南阿蘇村、御船町、嘉島町、益城町、甲佐町、山都町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">八代市、人吉市、水俣市、宇土市、上天草市、宇城市、天草市、美里町、氷川町、芦北町、津奈木町、錦町、多良木町、湯前町、水上村、相良村、五木村、山江村、球磨村、あさぎり町、苓北町</td></tr></tbody></table></li>
+<li id="AraaTableA44"><h2>大分　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">大分市1区域</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">日田市、佐伯市、臼杵市、津久見市、竹田市、豊後大野市、由布市、大分市2区域、九重町、玖珠町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">別府市、中津市、豊後高田市、杵築市、宇佐市、国東市、姫島村、日出町</td></tr></tbody></table></li>
+<li id="AraaTableA45"><h2>宮崎　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">宮崎市、国富町、綾町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">延岡市、日向市、西都市、高鍋町、新富町、西米良村、木城町、川南町、都農町、門川町、諸塚村、椎葉村、美郷町、高千穂町、日之影町、五ケ瀬町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">都城市、日南市、小林市、串間市、えびの市、三股町、高原町</td></tr></tbody></table></li>
+<li id="AraaTableA46"><h2>鹿児島　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">鹿児島市1区域、三島村、十島村</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">枕崎市、指宿市、南さつま市、奄美市、南九州市、鹿児島市2区域、大和村、宇検村、瀬戸内町、龍郷町、喜界町、徳之島町、天城町、伊仙町、和泊町、知名町、与論町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">阿久根市、出水市、薩摩川内市、日置市、いちき串木野市、伊佐市、姶良市、さつま町、長島町、湧水町</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">鹿屋市、西之表市、垂水市、曽於市、霧島市、志布志市、大崎町、東串良町、錦江町、南大隅町、肝付町、中種子町、南種子町、屋久島町</td></tr></tbody></table></li>
+<li id="AraaTableA47"><h2>沖縄　小選挙区</h2><table><thead><tr><th class="senkyoku"></th><th class="shichoson"></th></tr></thead><tbody><tr><td class="senkyoku">1区</td><td class="shichoson">那覇市、渡嘉敷村、座間味村、粟国村、渡名喜村、南大東村、北大東村、久米島町</td></tr><tr><td class="senkyoku">2区</td><td class="shichoson">宜野湾市、浦添市、読谷村、嘉手納町、北谷町、北中城村、中城村、西原町</td></tr><tr><td class="senkyoku">3区</td><td class="shichoson">名護市、沖縄市、うるま市、国頭村、大宜味村、東村、今帰仁村、本部町、恩納村、宜野座村、金武町、伊江村、伊平屋村、伊是名村</td></tr><tr><td class="senkyoku">4区</td><td class="shichoson">石垣市、糸満市、豊見城市、宮古島市、南城市、与那原町、南風原町、八重瀬町、多良間村、竹富町、与那国町</td></tr></tbody></table></li>
+</ul>
+</div>
+</div>
+<!--#include virtual="/senkyo/senkyo2017/esi/area_list.htm"-->
+<!--| AreaDetailNavi END |-->
+<!--| kouhoNavList BGN |-->
+<div class="kaihyoListNavi">
+<div class="shosenkyokulist">
+<div class="subTitle cFix">
+<h3>小選挙区の開票速報を見る</h3>
+</div>
+<ul class="FlatLnk cFix FstMod">
+<li><a href="A01.html">北海道</a></li>
+<li><a href="A02.html">青森</a></li>
+<li><a href="A03.html">岩手</a></li>
+<li><a href="A04.html">宮城</a></li>
+<li><a href="A05.html">秋田</a></li>
+<li><a href="A06.html">山形</a></li>
+<li><a href="A07.html">福島</a></li>
+<li><a href="A08.html">茨城</a></li>
+<li><a href="A09.html">栃木</a></li>
+<li><a href="A10.html">群馬</a></li>
+<li><a href="A11.html">埼玉</a></li>
+<li><a href="A12.html">千葉</a></li>
+<li><a href="A13.html">東京</a></li>
+<li><a href="A14.html">神奈川</a></li>
+<li><a href="A15.html">新潟</a></li>
+<li><a href="A16.html">富山</a></li>
+<li><a href="A17.html">石川</a></li>
+<li><a href="A18.html">福井</a></li>
+<li><a href="A19.html">山梨</a></li>
+<li><a href="A20.html">長野</a></li>
+<li><a href="A21.html">岐阜</a></li>
+<li><a href="A22.html">静岡</a></li>
+<li><a href="A23.html">愛知</a></li>
+<li><a href="A24.html">三重</a></li>
+<li><a href="A25.html">滋賀</a></li>
+<li><a href="A26.html">京都</a></li>
+<li><a href="A27.html">大阪</a></li>
+<li><a href="A28.html">兵庫</a></li>
+<li><a href="A29.html">奈良</a></li>
+<li><a href="A30.html">和歌山</a></li>
+<li><a href="A31.html">鳥取</a></li>
+<li><a href="A32.html">島根</a></li>
+<li><a href="A33.html">岡山</a></li>
+<li><a href="A34.html">広島</a></li>
+<li><a href="A35.html">山口</a></li>
+<li><a href="A36.html">徳島</a></li>
+<li><a href="A37.html">香川</a></li>
+<li><a href="A38.html">愛媛</a></li>
+<li><a href="A39.html">高知</a></li>
+<li><a href="A40.html">福岡</a></li>
+<li><a href="A41.html">佐賀</a></li>
+<li><a href="A42.html">長崎</a></li>
+<li><a href="A43.html">熊本</a></li>
+<li><a href="A44.html">大分</a></li>
+<li><a href="A45.html">宮崎</a></li>
+<li><a href="A46.html">鹿児島</a></li>
+<li><a href="A47.html">沖縄</a></li>
+</ul>
+</div>
+<div class="hireikulist">
+<div class="subTitle cFix">
+<h3>比例区の開票速報を見る</h3>
+</div>
+<ul class="FlatLnk cFix FstMod">
+<li><a href="O01.html">北海道ブロック</a></li>
+<li><a href="O02.html">東北ブロック</a></li>
+<li><a href="O03.html">北関東ブロック</a></li>
+<li><a href="O04.html">南関東ブロック</a></li>
+<li><a href="O05.html">東京ブロック</a></li>
+<li><a href="O06.html">北陸信越ブロック</a></li>
+<li><a href="O07.html">東海ブロック</a></li>
+<li><a href="O08.html">近畿ブロック</a></li>
+<li><a href="O09.html">中国ブロック</a></li>
+<li><a href="O10.html">四国ブロック</a></li>
+<li><a href="O11.html">九州ブロック</a></li>
+</ul>
+</div>
+</div>
+<!--#include virtual="/senkyo/senkyo2017/esi/kaihyo_navilist.htm"-->
+<!--| kouhoNavList END |-->
+<!-- Ad BGN -->
+<!-- dfptag webpush PC ★ここから -->
+<!-- /57465213/www.asahi.com/PC/webpush -->
+<div id="div-gpt-ad-1573619875004-0" style="width: 1px; height: 1px;">
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573619875004-0'); });
+  </script>
+</div>
+<!-- dfptag webpush PC ★ここまで -->
+<!-- Ad END -->
+<!-- Ad BGN -->
+<!-- dfptag　中面テキスト２行 ★ここから -->
+<div class="PrTextMod">
+<div class="Title">PR情報</div>
+<ul id="DfpPrInfo1">
+<li style="padding:0"><div></div></li>
+<li style="padding:0"><div></div></li>
+</ul>
+</div>
+<!-- 広告並び替え -->
+<script>
+  setTimeout(function() {
+    var shuffled = [],
+        remain = 0,
+        idList = ["div-gpt-ad-pc_text_1", "div-gpt-ad-pc_text_2"],
+        containers = document.querySelectorAll('#DfpPrInfo1 > li > div');
+
+    while (remain = idList.length) {
+      shuffled = shuffled.concat(idList.splice(Math.floor(Math.random() * remain), 1));
+    }
+
+    Array.prototype.forEach.call(containers, function (container, i) {
+      container.setAttribute('id', shuffled[i]);
+      googletag.cmd.push(function() { googletag.display(shuffled[i]); });
+    });
+  });
+</script>
+<!-- dfptag　中面テキスト２行 ★ここまで -->
+<!-- Ad END -->
+<!--#include virtual="/ad/esi/text/sokuho_text_utf8.htm"-->
+<div class="Section" id="FeatureBoxArea">
+<ul class="FeaturePhotoList">
+<li class="landscape"><a href="https://www.asahi.com/articles/ASPBD6H8RPBDUCLV010.html?iref=com_fbox_u01"><img alt="〈途中図〉先番・一力挑戦者（62手まで）" oncontextmenu="return false" src="https://www.asahicom.jp/articles/images/AS20211012002235_commL.jpg"/><span>【速報】検討陣の予想にない、挑戦者の封じ手　名人、いきなりの長考</span></a></li>
+<li class="landscape"><a href="/and/article/20211011/407898677/?iref=com_fbox_u02"><img alt="卵型の凝縮感あるスタイル　初代日産ムラーノ" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/211011_ogawafumio_dtop.jpg"/><span>卵型の凝縮感あるスタイル　初代日産ムラーノ</span></a></li>
+<li class="landscape"><a href="/and/article/20211012/409578565/?iref=com_fbox_u03"><img alt="“あめ色”が生み出す、幸せのパンケーキ〈PR〉" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/211012-monoco-dtop.jpg"/><span>“あめ色”が生み出す、幸せのパンケーキ〈PR〉</span></a></li>
+<li class="landscape"><a href="/and/article/20211011/409554676/?iref=com_fbox_u04"><img alt="常盤貴子さん「私は、京都が好きな人の代表」〈PR〉" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/211008_kyoto_top.jpg"/><span>常盤貴子さん「私は、京都が好きな人の代表」〈PR〉</span></a></li>
+<li class="landscape"><a href="/and/article/20211012/409787076/?iref=com_fbox_u05"><img alt="これぞ料理の名脇役、 ラムレーズンが染み渡るパン" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/DSC05184-660-336.jpg"/><span>これぞ料理の名脇役、 ラムレーズンが染み渡るパン</span></a></li>
+<li class="landscape"><a href="https://www.asahi.com/articles/ASPBB4TMZPB1UCVL01T.html?iref=com_fbox_u06"><img alt="ヒロインを演じる清原果耶。「おかえりモネ」の一場面=NHK提供" oncontextmenu="return false" src="https://www.asahicom.jp/articles/images/AS20211010000960_commL.jpg"/><span>「わからないけど、わかりたい」　おかえりモネ・安達奈緒子の思い</span></a></li>
+<li class="landscape"><a href="/and/article/20211012/409846192/?iref=com_fbox_u07"><img alt="廃虚が文化施設に変身　魅惑のガバナーズアイランド" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/211012_city_dtop.jpg"/><span>廃虚が文化施設に変身　魅惑のガバナーズアイランド</span></a></li>
+<li class="landscape"><a href="https://webronza.asahi.com/national/articles/2021101000005.html?iref=com_fbox_u08"><img alt="眞子さまがNYで暮らすのは良い選択。懸念は小室圭氏の「常識」" oncontextmenu="return false" src="https://www.asahicom.jp/images21/fbox/ronza/211012ronza_fbox2.jpg"/><span>眞子さまがNYで暮らすのは良い選択。懸念は小室圭氏の「常識」</span></a></li>
+<li class="landscape"><a href="https://asm.asahi.com/article/14458450?utm_source=fbox_u?iref=com_fbox_u09"><img alt="過去のデザインをブラッシュアップしたハートマンの鞄" oncontextmenu="return false" src="https://www.asahicom.jp/images21/ASM/bag/211012_bag_new300.jpg "/><span>過去のデザインをブラッシュアップしたハートマンの鞄</span></a></li>
+<li class="landscape"><a href="/and/article/20211011/409549339/?iref=com_fbox_u010"><img alt="多様性の街・NY。誰もが自分らしくいられる社会を" oncontextmenu="return false" src="https://www.asahicom.jp/and/data/wp-content/uploads/2021/10/211011_kubo_top.jpg"/><span>多様性の街・NY。誰もが自分らしくいられる社会を</span></a></li>
+</ul>
+<div class="FeatureList">
+<ul class="Recommend">
+<li class="andNativead">
+<div><div>
+<p class="Image landscape"><a href="https://asm.asahi.com/article/14456634?utm_source=pc_kiji_fbox&amp;iref=pc_kiji_fbox" target="_top"><img alt="画像" height="80" oncontextmenu="return false" src="https://www.asahicom.jp/images21/ASM/casualwear/211012_seo_top300.jpg " width="80"/></a></p>
+<dl><dt><span><a href="https://asm.asahi.com/" target="_top">アエラスタイルマガジン</a></span><a href="https://asm.asahi.com/article/14456634?utm_source=pc_kiji_fbox&amp;iref=pc_kiji_fbox" target="_top">ポロシャツは秋のコーディネートにも採り入れられる？</a></dt></dl>
+</div></div>
+</li>
+<!-- アンド ネイティブアド BGN -->
+<!-- 3 -->
+<li class="FeatureBox_Magazine">
+<!-- /57465213/www.asahi.com/PC/article/pc_article_yudo_tjapan -->
+<div id="div-gpt-ad-1598398399302-0">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1598398399302-0'); });
+        </script>
+</div>
+</li>
+<li class="andNativead">
+<!-- /57465213/www.asahi.com/PC/article/pc_article_yudo_andinfeed1 -->
+<div id="div-gpt-ad-1598398399303-0">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1598398399303-0'); });
+        </script>
+</div>
+</li>
+<li class="andNativead Second">
+<!-- /57465213/www.asahi.com/PC/article/pc_article_yudo_andinfeed2 -->
+<div id="div-gpt-ad-1598398399304-0">
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1598398399304-0'); });
+        </script>
+</div>
+</li>
+<!-- /アンド ネイティブアド END -->
+<li><p class="Image landscape"><a href="https://www.asahi.com/articles/DA3S15074118.html?iref=com_fbox_d1_01"><img alt="コラージュ・齋藤菜穂" height="80" oncontextmenu="return false" src="https://www.asahicom.jp/articles/images/AS20211013000196_comm.jpg" width="80"/></a></p>
+<dl><dt><span><a href="https://www.asahi.com/rensai/list.html?id=93&amp;iref=com_fbox_d1_01">耕論</a></span><a href="https://www.asahi.com/articles/DA3S15074118.html?iref=com_fbox_d1_01">アフガンと向き合う　内藤正典さん、村上優さん、清末愛砂さん</a></dt></dl>
+</li><li><p class="Image landscape"><a href="https://www.asahi.com/articles/DA3S15074121.html?iref=com_fbox_d1_02"><img alt="" height="80" oncontextmenu="return false" src="https://www.asahicom.jp/images/InsteadThmb16x9.svg" width="80"/></a></p>
+<dl><dt><span><a href="https://www.asahi.com/rensai/list.html?id=212&amp;iref=com_fbox_d1_02">多事奏論</a></span><a href="https://www.asahi.com/articles/DA3S15074121.html?iref=com_fbox_d1_02">スポンサーへの抗議　「番組へ圧力」期待、アリなのか　田玉恵美</a></dt></dl>
+</li></ul><!-- Recommend -->
+<ul class="List">
+<li class="Fst"><a href="https://www.asahi.com/articles/ASPBD5VZYPBDULFA00Q.html?iref=com_fbox_d2_01">やっぱり売れた缶ビール</a></li>
+<li><a href="https://www.asahi.com/articles/ASPBC6395PBCUCLV009.html?iref=com_fbox_d2_02">速報、囲碁名人戦第5局</a></li>
+<li><a href="https://www.asahi.com/articles/ASPBD2CMHPBDUHBI006.html?iref=com_fbox_d2_03">「英雄」はバイセクシャル</a></li>
+<li><a href="https://www.asahi.com/articles/ASPB95RSHPB8PTIL00J.html?iref=com_fbox_d2_04">マルチにはまった小説家語る</a></li>
+<li><a href="https://www.asahi.com/articles/ASPBD4TG5PBDUCVL00H.html?iref=com_fbox_d2_05">JIMSAKUインタビュー</a></li>
+<li><a href="https://www.asahi.com/articles/ASPBB5CQBPB1UCVL01Y.html?iref=com_fbox_d2_06">東北の作家が見た「モネ」</a></li>
+</ul>
+<div class="FeatureListWebMagazine">
+<ul>
+<li class="andW"><a href="https://www.asahi.com/and/w/?iref=com_fbox_navi"><img alt="アンドw" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_and_w_new.png"/></a></li>
+<li class="andM"><a href="https://www.asahi.com/and/m/?iref=com_fbox_navi"><img alt="アンドM" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_and_m_new.png"/></a></li>
+<li class="andTravel"><a href="https://www.asahi.com/and/travel/?iref=com_fbox_navi"><img alt="アンドトラベル" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_and_t_new.png"/></a></li>
+<li class="andTime"><a href="https://www.asahi.com/and/time/?iref=com_fbox_navi"><img alt="アンドタイム" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_and_time.png"/></a></li>
+<li class="Asm"><a href="https://asm.asahi.com/?utm_sorce=fbox_nave&amp;utm_medium=display&amp;utm_campaign=201709"><img alt="アエラスタイルマガジン" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_asm.png"/></a></li>
+<li class="AG"><a href="https://aginggracefully.asahi.com/" target="_blank"><img alt="AgingGracefully" oncontextmenu="return false" src="//www.asahicom.jp/images/fbox_logo_AgingGracefully.png"/></a></li>
+</ul>
+</div><!-- FeatureListAndLnk -->
+</div><!-- FeatureList -->
+</div><!-- Section -->
+<!--#include virtual="/news/esi/featbox13_utf8.htm"-->
+</div><!-- MainInner -->
+</div><!-- Main -->
+<!-- ★★sub.htm BGN★★ -->
+<div id="Sub">
+<!-- Tools BGN --><div class="Tools">
+<!-- ▼紙面イメージ｜＋Ｄ -->
+<!--#include virtual="/news/esi/chokan_plusd_utf8.htm"-->
+<!-- ▼購読申し込み -->
+<!--#include virtual="/news/esi/subscription_pr_utf8.htm"-->
+</div><!-- Tools END -->
+<!-- SubInner BGN --><div id="SubInner">
+<!-- ★Btop BGN★ -->
+<div class="Section">
+<iframe frameborder="0" height="515" id="Btop" marginheight="0" marginwidth="0" scrolling="no" src="/senkyo/senkyo2017/kaihyo/v/Btop.htm" width="100%"></iframe>
+</div><!-- Section END -->
+<!-- ★Btop END★ -->
+<!-- ★候補者・開票速報マップ BGN★ -->
+<div class="Section">
+<!--|地図ナビ BGN|-->
+<div id="subTabBox">
+<ul id="mapTab">
+<li id="mapT_tab1"><a href="javascript:void(0);" id="map_tab1" onclick="snkTabChng('tab1'); return false;">候補者</a></li>
+<li class="selected" id="mapT_tab2"><a href="javascript:void(0);" id="map_tab2" onclick="snkTabChng('tab2'); return false;">開票速報</a></li>
+</ul>
+<!--|tabbody BGN|-->
+<div id="tabbody">
+<!--|TAB1:TabFst BGN|-->
+<div class="mapArea" id="snkMapB_tab1" style="display: none;">
+<p style="float:left;"><img alt="地図：候補者" border="0" src="//www.asahicom.jp/senkyo/senkyo2017/images/sub_map_01.png" usemap="#koho_map" width="300"/></p>
+<div class="map_inner koho_map" id="koho_map">
+<a href="/senkyo/senkyo2017/koho/A01.html" id="koho_Hokkaido"><span>北海道</span></a>
+<a href="/senkyo/senkyo2017/koho/A02.html" id="koho_Aomori"><span>青森</span></a>
+<a href="/senkyo/senkyo2017/koho/A03.html" id="koho_Iwate"><span>岩手</span></a>
+<a href="/senkyo/senkyo2017/koho/A04.html" id="koho_Miyagi"><span>宮城</span></a>
+<a href="/senkyo/senkyo2017/koho/A05.html" id="koho_Akita"><span>秋田</span></a>
+<a href="/senkyo/senkyo2017/koho/A06.html" id="koho_Yamagata"><span>山形</span></a>
+<a href="/senkyo/senkyo2017/koho/A07.html" id="koho_Fukushima"><span>福島</span></a>
+<a href="/senkyo/senkyo2017/koho/A08.html" id="koho_Ibaraki"><span>茨城</span></a>
+<a href="/senkyo/senkyo2017/koho/A09.html" id="koho_Tochigi"><span>栃木</span></a>
+<a href="/senkyo/senkyo2017/koho/A10.html" id="koho_Gunma"><span>群馬</span></a>
+<a href="/senkyo/senkyo2017/koho/A11.html" id="koho_Saitama"><span>埼玉</span></a>
+<a href="/senkyo/senkyo2017/koho/A12.html" id="koho_Chiba"><span>千葉</span></a>
+<a href="/senkyo/senkyo2017/koho/A13.html" id="koho_Tokyo"><span>東京</span></a>
+<a href="/senkyo/senkyo2017/koho/A14.html" id="koho_Kanagawa"><span>神奈川</span></a>
+<a href="/senkyo/senkyo2017/koho/A15.html" id="koho_Niigata"><span>新潟</span></a>
+<a href="/senkyo/senkyo2017/koho/A16.html" id="koho_Toyama"><span>富山</span></a>
+<a href="/senkyo/senkyo2017/koho/A17.html" id="koho_Ishikawa"><span>石川</span></a>
+<a href="/senkyo/senkyo2017/koho/A18.html" id="koho_Fukui"><span>福井</span></a>
+<a href="/senkyo/senkyo2017/koho/A19.html" id="koho_Yamanashi"><span>山梨</span></a>
+<a href="/senkyo/senkyo2017/koho/A20.html" id="koho_Nagano"><span>長野</span></a>
+<a href="/senkyo/senkyo2017/koho/A21.html" id="koho_Gifu"><span>岐阜</span></a>
+<a href="/senkyo/senkyo2017/koho/A22.html" id="koho_Shizuoka"><span>静岡</span></a>
+<a href="/senkyo/senkyo2017/koho/A23.html" id="koho_Aichi"><span>愛知</span></a>
+<a href="/senkyo/senkyo2017/koho/A24.html" id="koho_Mie"><span>三重</span></a>
+<a href="/senkyo/senkyo2017/koho/A25.html" id="koho_Shiga"><span>滋賀</span></a>
+<a href="/senkyo/senkyo2017/koho/A26.html" id="koho_Kyoto"><span>京都</span></a>
+<a href="/senkyo/senkyo2017/koho/A27.html" id="koho_Osaka"><span>大阪</span></a>
+<a href="/senkyo/senkyo2017/koho/A28.html" id="koho_Hyogo"><span>兵庫</span></a>
+<a href="/senkyo/senkyo2017/koho/A29.html" id="koho_Nara"><span>奈良</span></a>
+<a href="/senkyo/senkyo2017/koho/A30.html" id="koho_Wakayama"><span>和歌山</span></a>
+<a href="/senkyo/senkyo2017/koho/A31.html" id="koho_Tottori"><span>鳥取</span></a>
+<a href="/senkyo/senkyo2017/koho/A32.html" id="koho_Shimane"><span>島根</span></a>
+<a href="/senkyo/senkyo2017/koho/A33.html" id="koho_Okayama"><span>岡山</span></a>
+<a href="/senkyo/senkyo2017/koho/A34.html" id="koho_Hiroshima"><span>広島</span></a>
+<a href="/senkyo/senkyo2017/koho/A35.html" id="koho_Yamaguchi"><span>山口</span></a>
+<a href="/senkyo/senkyo2017/koho/A36.html" id="koho_Tokushima"><span>徳島</span></a>
+<a href="/senkyo/senkyo2017/koho/A37.html" id="koho_Kagawa"><span>香川</span></a>
+<a href="/senkyo/senkyo2017/koho/A38.html" id="koho_Ehime"><span>愛媛</span></a>
+<a href="/senkyo/senkyo2017/koho/A39.html" id="koho_Kochi"><span>高知</span></a>
+<a href="/senkyo/senkyo2017/koho/A40.html" id="koho_Fukuoka"><span>福岡</span></a>
+<a href="/senkyo/senkyo2017/koho/A41.html" id="koho_Saga"><span>佐賀</span></a>
+<a href="/senkyo/senkyo2017/koho/A42.html" id="koho_Nagasaki"><span>長崎</span></a>
+<a href="/senkyo/senkyo2017/koho/A43.html" id="koho_Kumamoto"><span>熊本</span></a>
+<a href="/senkyo/senkyo2017/koho/A44.html" id="koho_Oita"><span>大分</span></a>
+<a href="/senkyo/senkyo2017/koho/A45.html" id="koho_Miyazaki"><span>宮崎</span></a>
+<a href="/senkyo/senkyo2017/koho/A46.html" id="koho_Kagoshima"><span>鹿児島</span></a>
+<a href="/senkyo/senkyo2017/koho/A47.html" id="koho_Okinawa"><span>沖縄</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O01.html" id="koho_O01"><span>北海道</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O02.html" id="koho_O02"><span>東北</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O03.html" id="koho_O03"><span>北関東</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O04.html" id="koho_O04"><span>南関東</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O05.html" id="koho_O05"><span>東京</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O06.html" id="koho_O06"><span>北陸信越</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O07.html" id="koho_O07"><span>東海</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O08.html" id="koho_O08"><span>近畿</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O09.html" id="koho_O09"><span>中国</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O10.html" id="koho_O10"><span>四国</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/koho/O11.html" id="koho_O11"><span>九州</span></a>
+</div>
+<p class="Comment">都道府県名・ブロック名をクリックすると候補者ページへ移動します。</p>
+</div>
+<!--|TAB1:TabFst END|-->
+<!--|TAB2:TabSecond BGN|-->
+<div class="mapArea" id="snkMapB_tab2" style="display: block;">
+<p style="float:left;"><img alt="開票台リンク地図" border="0" src="//www.asahicom.jp/senkyo/senkyo2017/images/sub_map_01.png" usemap="#kaihyo_map" width="300"/></p>
+<div class="map_inner kaihyo_map" id="kaihyo_map">
+<a href="/senkyo/senkyo2017/kaihyo/A01.html" id="kaihyo_Hokkaido"><span>北海道</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A02.html" id="kaihyo_Aomori"><span>青森</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A03.html" id="kaihyo_Iwate"><span>岩手</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A04.html" id="kaihyo_Miyagi"><span>宮城</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A05.html" id="kaihyo_Akita"><span>秋田</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A06.html" id="kaihyo_Yamagata"><span>山形</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A07.html" id="kaihyo_Fukushima"><span>福島</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A08.html" id="kaihyo_Ibaraki"><span>茨城</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A09.html" id="kaihyo_Tochigi"><span>栃木</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A10.html" id="kaihyo_Gunma"><span>群馬</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A11.html" id="kaihyo_Saitama"><span>埼玉</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A12.html" id="kaihyo_Chiba"><span>千葉</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A13.html" id="kaihyo_Tokyo"><span>東京</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A14.html" id="kaihyo_Kanagawa"><span>神奈川</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A15.html" id="kaihyo_Niigata"><span>新潟</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A16.html" id="kaihyo_Toyama"><span>富山</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A17.html" id="kaihyo_Ishikawa"><span>石川</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A18.html" id="kaihyo_Fukui"><span>福井</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A19.html" id="kaihyo_Yamanashi"><span>山梨</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A20.html" id="kaihyo_Nagano"><span>長野</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A21.html" id="kaihyo_Gifu"><span>岐阜</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A22.html" id="kaihyo_Shizuoka"><span>静岡</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A23.html" id="kaihyo_Aichi"><span>愛知</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A24.html" id="kaihyo_Mie"><span>三重</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A25.html" id="kaihyo_Shiga"><span>滋賀</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A26.html" id="kaihyo_Kyoto"><span>京都</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A27.html" id="kaihyo_Osaka"><span>大阪</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A28.html" id="kaihyo_Hyogo"><span>兵庫</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A29.html" id="kaihyo_Nara"><span>奈良</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A30.html" id="kaihyo_Wakayama"><span>和歌山</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A31.html" id="kaihyo_Tottori"><span>鳥取</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A32.html" id="kaihyo_Shimane"><span>島根</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A33.html" id="kaihyo_Okayama"><span>岡山</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A34.html" id="kaihyo_Hiroshima"><span>広島</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A35.html" id="kaihyo_Yamaguchi"><span>山口</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A36.html" id="kaihyo_Tokushima"><span>徳島</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A37.html" id="kaihyo_Kagawa"><span>香川</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A38.html" id="kaihyo_Ehime"><span>愛媛</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A39.html" id="kaihyo_Kochi"><span>高知</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A40.html" id="kaihyo_Fukuoka"><span>福岡</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A41.html" id="kaihyo_Saga"><span>佐賀</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A42.html" id="kaihyo_Nagasaki"><span>長崎</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A43.html" id="kaihyo_Kumamoto"><span>熊本</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A44.html" id="kaihyo_Oita"><span>大分</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A45.html" id="kaihyo_Miyazaki"><span>宮崎</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A46.html" id="kaihyo_Kagoshima"><span>鹿児島</span></a>
+<a href="/senkyo/senkyo2017/kaihyo/A47.html" id="kaihyo_Okinawa"><span>沖縄</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O01.html" id="kaihyo_O01"><span>北海道</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O02.html" id="kaihyo_O02"><span>東北</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O03.html" id="kaihyo_O03"><span>北関東</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O04.html" id="kaihyo_O04"><span>南関東</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O05.html" id="kaihyo_O05"><span>東京</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O06.html" id="kaihyo_O06"><span>北陸信越</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O07.html" id="kaihyo_O07"><span>東海</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O08.html" id="kaihyo_O08"><span>近畿</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O09.html" id="kaihyo_O09"><span>中国</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O10.html" id="kaihyo_O10"><span>四国</span></a>
+<a class="hirei" href="/senkyo/senkyo2017/kaihyo/O11.html" id="kaihyo_O11"><span>九州</span></a>
+</div>
+<p class="Comment">都道府県名・ブロック名をクリックすると開票速報ページへ移動します。</p>
+</div>
+<!--|TAB2:TabSecond END|-->
+</div>
+<!--|tabbody END|-->
+</div>
+<!--|地図ナビ END|-->
+</div>
+<script type="text/javascript"><!--
+  // change tab and map Func
+  function snkTabChng(tabh){
+    // off tab and map
+    $("#mapTab li").removeClass("selected");
+    $("#tabbody .mapArea").css("display","none");
+    // on tab and map
+    $("#mapT_" + tabh).addClass("selected");
+    $("#tabbody #snkMapB_" + tabh).css("display","block");
+  }
+//--></script>
+<!--#include virtual="/senkyo/senkyo2017/esi/subtabnavi.htm"-->
+<!-- ★候補者・開票速報マップ END★ -->
+<!-- ▼広告・選挙レクタングル -->
+<!-- Ad BGN -->
+<div class="Section">
+<div class="Ad">
+<!-- dfptag　article（速報）レクタングル 　★ここから -->
+<!-- /57465213/www.asahi.com/PC/article/1st_rect -->
+<div id="1st_rect">
+<script>
+                googletag.cmd.push(function () { googletag.display('1st_rect'); });
+            </script>
+</div>
+<!-- dfptag　article（速報）レクタングル 　★ここまで -->
+</div>
+</div>
+<!-- Ad END -->
+<!--#include virtual="/ad/esi/rrect/senkyo_rect_utf8.htm"-->
+<!-- ★選挙日程 BGN★ -->
+<!-- Section BGN --><div class="Section">
+<div class="HeadingSet">
+<h2>選挙などの日程</h2>
+</div>
+<ul class="SnkScheduleList">
+<li>
+<dl class="item">
+<dt>衆院議員選挙公示</dt><dd>10/10(火)</dd>
+</dl>
+</li>
+<li>
+<dl class="item">
+<dt>衆院議員選挙投開票</dt><dd>10/22(日)</dd>
+</dl>
+</li>
+<li>
+<dl class="item">
+<dt>期日前投票期間</dt><dd>10/11(水)～10/21(土)</dd>
+</dl>
+</li>
+</ul>
+</div><!-- Section END -->
+<!-- ★選挙日程 END★ -->
+<!--★政党公式サイト BGN★ -->
+<div class="Section">
+<div class="HeadingSet">
+<h2>主な政党公式サイト<span class="TxtSmall ml5 normal">別ウインドウで開きます</span></h2>
+</div>
+<ul class="Lnk Flat">
+<li><a href="https://www.jimin.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">自民党</a></li>
+<li><a href="https://kibounotou.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">希望の党</a></li>
+<li><a href="https://www.komei.or.jp/index_st.html" rel="nofollow" target="new" title="別ウインドウで開きます">公明党</a></li>
+<li><a href="http://www.jcp.or.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">共産党</a></li>
+<li><a href="http://cdp-japan.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">立憲民主党</a></li>
+<li><a href="https://o-ishin.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">日本維新の会</a></li>
+<li><a href="http://www5.sdp.or.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">社民党</a></li>
+<li><a href="https://nippon-kokoro.jp/" rel="nofollow" target="new" title="別ウインドウで開きます">日本のこころ</a></li>
+</ul>
+</div><!-- Section END -->
+<!--★政党公式サイト END★ -->
+<!--| twitter BGN |-->
+<style type="text/css">
+#Sub #SubInner .Widgets {}
+#Sub #SubInner .twitter-timeline {margin:0!important;padding:0!important;}
+</style>
+<div class="Section">
+<div class="Title">
+<h2><a href="https://twitter.com/asahi_election" target="_blank">朝日新聞・選挙報道 公式ツイッター</a></h2>
+</div>
+<!-- ここからツイッタータイムライン -->
+<div class="Widgets">
+<!-- Twitter BGN -->
+<a class="twitter-timeline" data-chrome="noheader" data-height="500" data-lang="ja" data-theme="light" data-width="100%" href="https://twitter.com/asahi_election">Tweets by asahi_election</a><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+<!-- Twitter END -->
+</div><!-- /Widgets -->
+<!-- ここまでツイッタータイムライン -->
+</div><!-- /Section -->
+<div class="Section">
+<div class="Title">
+<h2><a href="https://twitter.com/asahi_kantei" target="_blank">朝日新聞官邸クラブ 公式ツイッター</a></h2>
+</div>
+<!-- ここからツイッタータイムライン -->
+<div class="Widgets">
+<!-- Twitter BGN -->
+<a class="twitter-timeline" data-chrome="noheader" data-height="400" data-lang="ja" data-theme="light" data-width="100%" href="https://twitter.com/asahi_kantei">Tweets by asahi_kantei</a><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+<!-- Twitter END -->
+</div><!-- /Widgets -->
+<!-- ここまでツイッタータイムライン -->
+<p class="Information pt10">※Twitterのサービスが混み合っている時など、ツイートが表示されない場合もあります。</p>
+</div><!-- /Section -->
+<!--| twitter END |-->
+<!--★ BnrLnk BGN★ -->
+<div class="Section">
+<ul class="BnrLnk">
+<li><a href="http://www.asahi.com/information/cd/senkyo2017.html?ref=senkyoweb"><img alt="朝日新聞で見る2017総選挙" src="//www.asahicom.jp/senkyo/images/senkyo2017_after.jpg" width="300"/></a></li>
+<li><a href="http://www.asahi.com/information/cd/senkyo2016.html?ref=senkyoweb"><img alt="朝日新聞で見る2016参院選のすべて" src="//www.asahicom.jp/senkyo/images/senkyo2016_bnr.jpg" width="300"/></a></li>
+<li><a href="http://www.asahi.com/information/cd/senkyo2014.html?ref=senkyoweb"><img alt="朝日新聞で見る2014衆院選のすべて" src="//www.asahi.com/senkyo/images/senkyo2014_bnr.gif" width="300"/></a></li>
+</ul>
+</div>
+<!--★ BnrLnk END★ -->
+<!-- ▼広告・ニュース２ｎｄレクタングル -->
+<!-- Ad BGN -->
+<div class="Section" id="SubInnerAd">
+<div class="Ad">
+<!-- dfptag　article（速報）2ndレクタングル 　★ここから -->
+<!-- /57465213/www.asahi.com/PC/article/2nd_rect -->
+<div id="div-gpt-ad-1490947024530-1">
+<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490947024530-1'); });
+			</script>
+</div>
+<!-- dfptag　article（速報）2ndレクタングル 　★ここまで -->
+</div>
+<!-- YDNタグ　★ここから -->
+<style type="text/css">
+		.yads_ad_title {
+			font-weight: bold;
+		}
+		.yads_ad_adv, .yads_ad_desc, .yads_ad_info {
+			font-size: 80%;
+		}
+		.yads_ad_info {
+			text-align: right;
+		}
+	</style>
+<div style="border-top: 2px solid #DDD; border-bottom: 2px solid #DDD; padding: 3px;">
+<script language="JavaScript" type="text/javascript">
+			yads_ad_ds = '22768_546451';
+		</script>
+<script language="JavaScript" src="https://yads.c.yimg.jp/js/yads.js" type="text/javascript"></script>
+</div>
+<!-- YDNタグ　★ここまで -->
+</div>
+<!-- Ad END -->
+<!--#include virtual="/ad/esi/rrect2/sokuho_rect2_utf8.htm"-->
+</div><!-- SubInner END -->
+<!--#include virtual="/senkyo/senkyo2017/esi/rightnavi.htm"-->
+</div>
+<!-- ★★sub.htm END★★ -->
+</div><!-- ContentsInner -->
+</div><!-- Contents -->
+<!-- ★★footer BGN★★ -->
+<!-- Footer BGN -->
+<div id="Footer">
+<!-- ToTop BGN --><div id="ToTop">
+<!-- ToTopInner BGN --><div id="ToTopInner">
+<p><a href="#Header">ページトップへ戻る</a></p>
+</div><!-- ToTopInner END -->
+</div><!-- ToTop END -->
+<!--SelectButton BGN-->
+<script><!--
+var topDeviceChk_ua = navigator.userAgent;
+if (topDeviceChk_ua.indexOf('Android') != - 1 && topDeviceChk_ua.indexOf('Mobile') != - 1 || topDeviceChk_ua.indexOf('iPhone') != -1) {
+	d.write('<div class="SelectButton clearfix" style="display:block;width:100%;height:auto;margin-top:-24px;padding-top:36px;margin-bottom: 24px;padding-bottom:30px;font-size:57px;color:#696962;font-weight:bold"><ul><li class="SelectButtonPC" style="width:31%;text-align:right;opacity:.3;filter:alpha(opacity=30);-ms-filter:alpha(opacity=30);padding:5px 0;float:left;padding-right:40px;"><span style="display:inline-block;line-height: 80px;height:80px;background:transparent url(//www.asahicom.jp/sp/css/images/icon-pc_pc_link.png) no-repeat left top;background-size: 88px 80px;padding-left:110px;font-family:Helvetica, Arial, sans-serif;">PC版</span></li><li class="SelectButtonSMP" style="width:56%;text-align:left;border-left:1px solid #d7d7d0;padding-left:50px;float:left;"><a href="javascript:void(0);" style="display: block;color:#696962;width:100%;height:auto;line-height: 80px;padding:5px 0;font-weight:bold;"><span style="display:inline-block;height:80px;background:transparent url(//www.asahicom.jp/sp/css/images/icon-pc_smp_link.png) no-repeat left top;background-size: 56px 80px;padding-left:80px;font-family:Helvetica, Arial, sans-serif;">スマートフォン版</span></a></li></ul></div>');
+$(function(){$("#SpLink").css("display","none");	});
+}//--></script>
+<!--SelectButton END-->
+<!-- Services BGN --><div class="NoApp" id="Services">
+<dl>
+<dt><a href="https://digital.asahi.com/info/about/?iref=com_footer#relation_site">朝日新聞デジタルの関連サイト</a></dt><dd>
+<ul class="FstLogo">
+<li class="webronza"><a href="https://webronza.asahi.com/?iref=com_footer"><img alt="論座（ロンザ）" height="32" src="https://www.asahicom.jp/css/images/footerlogo-ronza1.png" width="50"/></a></li>
+</ul>
+</dd>
+</dl>
+</div><!-- Services END -->
+<!-- FooterInner BGN --><div id="FooterInner">
+<!-- Information BGN --><div class="Information">
+<dl class="fromAsahiShimbun">
+<dt><a href="https://www.asahi.com/corporate/?iref=com_footer" target="_blank">朝日新聞社から</a></dt>
+<dd>
+<ul>
+<li><a href="https://www.asahi.com/corporate/guide/?iref=com_footer" target="_blank">会社案内</a></li>
+<li><a href="https://www.asahi.com/corporate/csr/?iref=com_footer" target="_blank">サステナビリティ</a></li>
+<li><a href="https://www.asahishimbun-saiyou.com/?iref=com_footer" target="_blank">採用情報</a></li>
+<li><a href="http://www.asahi.com/chizai/?iref=com_footer" target="_blank">記事のご利用案内</a></li>
+<li><a href="https://adv.asahi.com/?iref=com_footer" target="_blank">新聞広告ガイド</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="fromDigitalBusiness">
+<dt><a href="http://www.asahi.com/information/service/?iref=com_footer">デジタル事業から</a></dt>
+<dd>
+<ul>
+<li><a href="http://www.asahi.com/information/service/?iref=com_footer">デジタルサービス一覧</a></li>
+<li><a href="http://www.asahi.com/information/mobile/?iref=com_footer">携帯サービス</a></li>
+<li><a href="http://astand.asahi.com/?iref=com_footer" target="_blank">Astand(コンテンツ販売)</a></li>
+<li><a href="http://www.asahi.com/information/haishin/?iref=com_footer" target="_blank">法人向け配信</a></li>
+<li><a href="http://photoarchives.asahi.com/?iref=com_footer" target="_blank">写真の購入案内</a></li>
+<li><a href="http://www.asahi.com/information/db/?iref=com_footer" target="_blank">記事データベース案内</a></li>
+<li><a href="https://id.asahi.com/?iref=com_footer" target="_blank">朝日ID</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="GroupCompany">
+<dt><a href="https://www.asahi.com/corporate/guide/outline/11210023?iref=com_footer" target="_blank">グループ企業</a></dt>
+<dd>
+<ul>
+<li><a href="https://publications.asahi.com/?iref=com_footer" target="_blank">朝日新聞出版の本</a></li>
+<li><a href="https://dot.asahi.com/?iref=com_footer" target="_blank">朝日新聞出版(AERA dot.)</a></li>
+<li><a href="http://aiasahi.jp/?iref=com_footer" target="_blank">朝日インタラクティブ</a></li>
+<li><a href="http://www.asagaku.com/?iref=com_footer" target="_blank">朝日学生新聞社</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="WorldWideSite">
+<dt>各国語サイト (News in various languages)</dt>
+<dd>
+<ul>
+<li><a href="https://www.asahi.com/ajw/?iref=com_footer">The Asahi Shimbun Asia&amp;Japan Watch (ENGLISH)</a></li>
+<li><a href="http://www.asahi.com/english/weekly/?iref=com_footer">Asahi Weekly (ENGLISH/JAPANESE)</a></li>
+<li><a href="http://www.huffingtonpost.jp/?iref=com_footer">ハフポスト日本版 (JAPANESE)</a></li>
+<li><a href="http://www.cnn.co.jp/?iref=com_footer">CNN.co.jp (JAPANESE)</a></li>
+</ul>
+</dd>
+</dl>
+</div><!-- Information END -->
+<!-- AboutSite BGN --><div class="AboutSite">
+<ul>
+<li class="Fst"><a href="http://www.asahi.com/policy/?iref=com_footer">サイトポリシー</a></li>
+<li><a href="http://www.asahi.com/sitemap/?iref=com_footer">サイトマップ</a></li>
+<li><a href="http://digital.asahi.com/info/guide/index09_10.html?iref=com_footer">利用規約</a></li>
+<li><a href="https://www.asahi.com/ads/guide/?iref=com_footer">web広告ガイド</a></li>
+<li><a href="http://www.asahi.com/policy/link.html?iref=com_footer">リンク</a></li>
+<li><a href="http://www.asahi.com/kojinjoho/?iref=com_footer">個人情報</a></li>
+<li><a href="http://www.asahi.com/policy/copyright.html?iref=com_footer">著作権</a></li>
+<li><a href="https://support.asahi.com/hc/ja?iref=com_footer">お問い合わせ・ヘルプ</a></li>
+</ul>
+<!-- Copyright BGN --><div class="Copyright">
+<p>朝日新聞デジタルに掲載の記事・写真の無断転載を禁じます。すべての内容は日本の著作権法並びに国際条約により保護されています。<br/>
+Copyright © The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.</p>
+</div><!-- Copyright END -->
+</div><!-- AboutSite END -->
+</div><!-- FooterInner END -->
+</div>
+<!-- Footer END -->
+<!--#include virtual="/news/esi/footer13_smp_utf8.htm"-->
+<!-- ★★footer END★★ -->
+<!-- 分析チーム用（無料域向け）BGN -->
+<!--#include virtual="/ad/esi/bunseki/impact-ad_utf8.htm"-->
+<!-- 分析チーム用（無料域向け）END -->
+<!-- facebook宣言スクリプト BGN -->
+<!-- facebook宣言スクリプト BGN -->
+<div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId : '137119773101625',
+			xfbml : true,
+			version : 'v7.0'
+		});
+	};
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/ja_JP/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- facebook宣言スクリプト END -->
+<!--#include virtual="/news/esi/SocialEmbeddedTag2015.htm"-->
+<!-- facebook宣言スクリプト END -->
+<!-- DTM2 BGN -->
+<!-- DTM下 -->
+<script>_satellite.pageBottom();</script>
+<!-- /DTM下 -->
+<!--#include virtual="/news/esi/dtm2_utf8.htm"-->
+<!-- DTM2 END -->
+<!-- googleon:index -->
+</body>
+</html>]
