@@ -15,7 +15,7 @@ for i in range(47):
         soup = BeautifulSoup(requests.get(base_url+"A0"+str(i+1)+".html", headers = headers).content, 'html.parser')
     else:
         soup = BeautifulSoup(requests.get(base_url+"A"+str(i+1)+".html", headers = headers).content, 'html.parser') 
-    with open("./data/"+str(i+1)+".txt", "w") as f:
+    with open("../shugiin2017_basic/"+str(i+1)+".txt", "w") as f:
         f.write(str(soup.contents))
     # print(i+1)
     time.sleep(5)
@@ -73,8 +73,8 @@ for i in range(47):
             row = []
             win_flag = 0
 
-print(dataset)
-print(len(dataset))
+# print(dataset)
+# print(len(dataset))
 with open("../dataset/shugiin2017.csv", "w") as f:
     writer = csv.writer(f)
     writer.writerows(dataset)
